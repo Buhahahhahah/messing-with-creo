@@ -1,0 +1,30 @@
+       Diagnostics d'erreur pour l'échec de l'analyse/assemblage
+
+  Toutes les restrictions de position ne peuvent être satisfaites en même temps.
+Impossible de satisfaire les restrictions de position suivantes :
+
+
+1) Impossible de satisfaire Limite supérieure de l'axe dans la rainure
+Connection_102 du modèle 1_ROBOT_2024 .
+
+
+2) Impossible de satisfaire Limite inférieure de l'axe dans la rainure
+Connection_104 du modèle 1_ROBOT_2024 .
+
+
+3) Le corps rigide body12 lié par Connection_102 dans le modèle 1_ROBOT_2024 ne
+peut pas être orienté correctement. 
+
+
+4) Le corps rigide body12 lié par Connection_104 dans le modèle 1_ROBOT_2024 ne
+peut pas être orienté correctement. 
+
+
+5) Impossible de fermer la boucle cinématique suivante : Ground - body12 -
+Ground
+
+
+6) Impossible de fermer la boucle cinématique suivante : Ground - body12 -
+Ground
+
+

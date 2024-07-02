@@ -1,0 +1,33 @@
+﻿  MODELE BRAS_ROBOT :
+ 
+
+  2 BOUCLES DE REFERENCE CIRCULAIRE TROUVEES
+ 
+
+   N° de boucle 1
+
+   Profondeur de la boucle = 3
+
+Numéro de fonction 8 (COMPOSANT, ID = 63) 
+  dans le modèle BRAS_ROBOT se refère à:
+
+Numéro de fonction 2 (EXTRUSION_1, ID = 25) 
+  dans le modèle BIELLE_SOUTIENT se refère à:
+
+Numéro de fonction 8 (COMPOSANT, ID = 63) 
+  dans le modèle BRAS_ROBOT - cercle fermé.
+
+
+   N° de boucle 2
+
+   Profondeur de la boucle = 3
+
+Numéro de fonction 9 (COMPOSANT, ID = 59) 
+  dans le modèle BRAS_ROBOT se refère à:
+
+Numéro de fonction 11 (EXTRUSION_5, ID = 318) 
+  dans le modèle MAINTIENT_M3 se refère à:
+
+Numéro de fonction 9 (COMPOSANT, ID = 59) 
+  dans le modèle BRAS_ROBOT - cercle fermé.
+

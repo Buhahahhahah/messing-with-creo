@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT>Creo Parametric 4002022073</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>DESKTOP-PE42JRD</HOST_NAME>
+        <USER>iamar</USER>
+        <MACHINE_TYPE> AMD64 Family 23 Model 17 Stepping 0  AuthenticAMD  1996 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <item item_type="4" pointer="TRUE" tag="SUMMARY OF IMPORT PROCESSING">
+        <name pointer="TRUE" type="9">
+            <value__PO__ws_val__PC__>Résumé du processus d'importation</value__PO__ws_val__PC__>
+        </name>
+        <item__PO__item_set__PC__ pointer="TRUE" tag="NULL">
+            <name>NULL</name>
+            <items SOAP-ENC:Array="[3]">
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>IGES</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\iamar\Documents\INSA\Club robot\2022-2023\Coupe de France\r325-urg-04lx-ug01.igs</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>R325-URG-04LX-UG01</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="4" pointer="TRUE" tag="Geometry Processing">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Traitement de la géométrie</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__item_set__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <items SOAP-ENC:Array="[1]">
+                            <items_ENTRY item_type="3" pointer="TRUE" tag="Processing errors of model">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Traitement des erreurs du modèle</value__PO__ws_val__PC__>
+                                </name>
+                                <item__PO__ent_set__PC__ pointer="TRUE" tag="NULL">
+                                    <name pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>r325-urg-04lx-ug01</value__PO__cs_val__PC__>
+                                    </name>
+                                    <ents SOAP-ENC:Array="[21]">
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>19</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>83</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>411</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>427</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>497</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>505</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>533</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>541</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>565</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>581</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>999</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1007</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1041</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1049</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1083</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1091</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1125</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1133</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1199</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>1263</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>126</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>0</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="Table columns">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_form">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Forme d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                    </ents>
+                                </item__PO__ent_set__PC__>
+                            </items_ENTRY>
+                        </items>
+                    </item__PO__item_set__PC__>
+                </items_ENTRY>
+            </items>
+        </item__PO__item_set__PC__>
+    </item>
+</XML_DOCUMENT>

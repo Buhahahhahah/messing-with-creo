@@ -1,0 +1,19 @@
+﻿  MODELE SQUELETTE :
+ 
+
+  1 BOUCLES DE REFERENCE CIRCULAIRE TROUVEES
+ 
+
+   N° de boucle 1
+
+   Profondeur de la boucle = 3
+
+Numéro de fonction 8 (AXE DE REFERENCE, ID = 114) 
+  dans le modèle SQUELETTE se refère à:
+
+Numéro de fonction 10 (ESQUISSE_2, ID = 105) 
+  dans le modèle SQUELETTE doit suivre:
+
+Numéro de fonction 8 (AXE DE REFERENCE, ID = 114) 
+  dans le modèle SQUELETTE - cercle fermé.
+

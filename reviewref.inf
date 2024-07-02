@@ -1,0 +1,48 @@
+﻿|***************************|
+    INFORMATIONS DE REFERENCE    
+|***************************|
+ Référence No.1 sortie de 1 
+
+Référence :
+   TYPE   : plan
+
+Statut   : in geometry (body id -5778)
+
+
+Propriétaire de la référence:
+ Modèle  :
+   NOM   : MAINTIEN_MOTEUR_2 
+   TYPE   : Pièce
+ Fonction:
+
+    NUMERO DE FONCTION 28
+    ID FONCTION INTERNE 1633
+    FONCTION CREEE DANS L'ASSEMBLAGE MOTEUR_ROTATION_X 
+    PARENTS = 1625(#27) 
+    ENFANTS =  1710(#29) 1718(#30) 
+
+
+ DECOUPE: Extrusion
+
+  N°      Nom de l'élément              INFORMATIONS                            
+  ---     -------------                 -------------                           
+   1      Nom de la fonction            Défini                                  
+   2      Type de fonction d'extrusion  Solide                                  
+   3      Matière                       Enlever                                 
+   4      Corps                         Défini                                  
+   4.1    Utiliser le corps             Sélectionné                             
+   4.2    Corps sélectionnés            Corps 1                                 
+   5      Section                       Défini                                  
+   5.1    Esquisse de référence         F27(ESQUISSE_15)                        
+   6      Forme de la fonction          Solide                                  
+   7      Côté matière                  Côté deux                               
+   8      Direction                     Côté 1                                  
+   9      Profondeur                    Défini                                  
+   9.1    Côté un                       Défini                                  
+   9.1.1  Profondeur côté 1             Aucun                                   
+   9.2    Côté deux                     Défini                                  
+   9.2.1  Profondeur côté 2             Jusqu'à suivant                         
+
+    NOM DE SECTION = Esquisse 15 
+
+

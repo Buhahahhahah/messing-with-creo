@@ -1,0 +1,311 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIImpossible de fermer la fenêtre de base.
+< 0 0.981333 1702 0 0 828 1920 0 0 1080 13
+< 0 0.981333 1532 0 0 828 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 215 214 0 1 1532 828 1920 1080 170569
+** -0.061481 0.740338 0 1 1
+-0.061481 0.624660 L 0 0.981333333 0
+~ Move `main_dlg_cur` `proe_win` 9 216 212 0 1537 1532 828 1920 1080 170639
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 216 210 0 1024 1532 828 1920 1080 170641
+~ Command `ProCmdUtilNCPostProcessor` 
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Select `file_open` `Ph_list.Filelist` 1 `robotmoteursdc.asm`
+~ Activate `file_open` `Ph_list.Filelist` 1 `robotmoteursdc.asm`
+!Command ProCmdModelOpenExe was pushed from the software.
+!21-Mar-24 17:18:33  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\robotmoteursdc.asm.75
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\basedc.prt.14
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\basedc.prt.14
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_re280_.prt.3
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_re280_.prt.3
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\supportmoteursdc.prt.16
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\supportmoteursdc.prt.16
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\rouecode.prt.5
+!sket_eps       35.01265162
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\rouecode.prt.5
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roued20mmmoteur.prt.4
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roued20mmmoteur.prt.4
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\connecteurrouedente.prt.7
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\connecteurrouedente.prt.7
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roued20mmrouecode.prt.4
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roued20mmrouecode.prt.4
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\profil_alu_20x20_290mm.prt.9
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\profil_alu_20x20_290mm.prt.9
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\profil_alu_20x20_170mm.prt.5
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\profil_alu_20x20_170mm.prt.5
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\profil_alu_20x20_75mm.prt.6
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\profil_alu_20x20_75mm.prt.6
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\etage1.prt.17
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\etage1.prt.17
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roue82mm.prt.4
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roue82mm.prt.4
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\protecteurengrenage.prt.25
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\protecteurengrenage.prt.25
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\equaire_profiler.prt.4
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\equaire_profiler.prt.4
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\brasmobile.asm.25
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\brasdemur.prt.14
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\brasdemur.prt.14
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\brascentral.prt.14
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\brascentral.prt.14
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\tete.prt.8
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\tete.prt.8
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\connecteurdeventouse.prt.6
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\connecteurdeventouse.prt.6
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\ventouse.prt.3
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\ventouse.prt.3
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\brasmobile.asm.25
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_pinion_v3.prt.12
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_pinion_v3.prt.12
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\pinion_a1-01-06-10.prt.11
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\pinion_a1-01-06-10.prt.11
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_pinion_v4.prt.9
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_pinion_v4.prt.9
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_pinion_horisontal_v1.prt.6
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_pinion_horisontal_v1.prt.6
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\asm_mail_anneaux_v2.asm.5
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\mail_anneau_pot_fleur.prt.10
+!21-Mar-24 17:18:34  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\mail_anneau_pot_fleur.prt.10
+!21-Mar-24 17:18:34  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\entretoise_de_la_chaine.prt.3
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\entretoise_de_la_chaine.prt.3
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\entretoise_roulement.prt.4
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\entretoise_roulement.prt.4
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roulement.asm.1
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5.asm.1
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part4.prt.1
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part4.prt.1
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part3.prt.1
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part3.prt.1
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part2.prt.1
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part2.prt.1
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part1.prt.1
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5_part1.prt.1
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\michaud_chailly_619_5.asm.1
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\roulement.asm.1
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\anneau_pot_de_fleur.prt.6
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\anneau_pot_de_fleur.prt.6
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\asm_mail_anneaux_v2.asm.5
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bras_robot.asm.82
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_rotation_z1.asm.12
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_moteur_1.prt.5
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_moteur_1.prt.5
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_rotation_z1.asm.12
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_rotation_x.asm.19
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintien_moteur_2.prt.53
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintien_moteur_2.prt.53
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_rotation_x.asm.19
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_m2.asm.2
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_m2.prt.19
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_m2.prt.19
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_m2.asm.2
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_soutient.asm.2
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_soutient.prt.51
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_soutient.prt.51
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bielle_soutient.asm.2
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_rotation_z2.asm.7
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_m3.prt.57
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintient_m3.prt.57
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\moteur_rotation_z2.asm.7
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\asm0001_pince.asm.11
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\top base.SLDPRT
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\top base.SLDPRT
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\servo.SLDPRT
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\servo.SLDPRT
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\servo r.SLDPRT
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\servo r.SLDPRT
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\rod1.SLDPRT
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\rod1.SLDPRT
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\rod2.SLDPRT
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\rod2.SLDPRT
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\grip right.SLDPRT
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\grip right.SLDPRT
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\grip.SLDPRT
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\grip.SLDPRT
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintien_pince_m3.prt.15
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\maintien_pince_m3.prt.15
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\asm0001_pince.asm.11
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\bras_robot.asm.82
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\asm_mail_anneaux_v3.asm.3
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\mail_anneau_pot_fleur_v3.prt.2
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\mail_anneau_pot_fleur_v3.prt.2
+!21-Mar-24 17:18:35  Start C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\pot_de_fleur.prt.2
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\pot_de_fleur.prt.2
+!21-Mar-24 17:18:35  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\asm_mail_anneaux_v3.asm.3
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	21/03/2024 at 17:18:36
+!ProgressBarDlg: Regen Started
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	21/03/2024 at 17:18:37
+!%CIRégénération de ASM0001_PINCE terminée avec un statut de composant ou de fonction atypique. Echec de l'enfant du composant externe : 1. 
+!%CIRégénération de BRAS_ROBOT terminée avec un statut de composant ou de fonction atypique. Echec de l'enfant du composant externe : 1. 
+!ProgressBarDlg: Regen Completed
+!%CIPièce 'MOTEURCOFRE' inchangée depuis la dernière régénération.
+!%CIPièce '_HERKULEX_DRS-010X' inchangée depuis la dernière régénération.
+!%CIPièce 'SERVO_ASM' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_ASM_A' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_223_A' inchangée depuis la dernière régénération.
+!%CIPièce 'MOTEURCOFRE' inchangée depuis la dernière régénération.
+!%CIPièce '_HERKULEX_DRS-010X' inchangée depuis la dernière régénération.
+!%CIPièce 'SERVO_ASM' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_ASM_A' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_223_A' inchangée depuis la dernière régénération.
+!%CIPièce 'MOTEURCOFRE' inchangée depuis la dernière régénération.
+!%CIPièce '_HERKULEX_DRS-010X' inchangée depuis la dernière régénération.
+!%CIPièce 'SERVO_ASM' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_ASM_A' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_223_A' inchangée depuis la dernière régénération.
+!%CIPièce '_HERKULEX_DRS-010X' inchangée depuis la dernière régénération.
+!%CIPièce 'SERVO_ASM' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_ASM_A' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_223_A' inchangée depuis la dernière régénération.
+!%CIPièce '_HERKULEX_DRS-010X' inchangée depuis la dernière régénération.
+!%CIPièce 'SERVO_ASM' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_ASM_A' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_223_A' inchangée depuis la dernière régénération.
+!%CIPièce '_HERKULEX_DRS-010X' inchangée depuis la dernière régénération.
+!%CIPièce 'SERVO_ASM' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_ASM_A' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_223_A' inchangée depuis la dernière régénération.
+!%CIPièce '_HERKULEX_DRS-010X' inchangée depuis la dernière régénération.
+!%CIPièce 'SERVO_ASM' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_ASM_A' inchangée depuis la dernière régénération.
+!%CIPièce 'TORQUE_VERSION_12_017_ASM_223_A' inchangée depuis la dernière régénération.
+!21-Mar-24 17:18:37  End   C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\robotmoteursdc.asm.75
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+? 0.0000000000000000 159.9999999999986358 0.0025000000368891 
+!mem_use INCREASE Blocks 2535869, AppSize 68376014, SysSize 125521672
+0.0000000000000000 0.0000000000000000 0.0000000000000002 
+& 14.5519152283668518 0.0000000000000000 0.0000000000000000 
+0.0000000000000000 14.5519152283668518 0.0000000000000000 
+0.0000000000000000 0.0000000000000000 14.5519152283668518 
+-7355.4921211958253480 -5729.1611991620256958 0.0000000000000000 
+; -0.2327853586068704 -0.1898484471807253 0.9538178777530530 
+-0.0188328891849757 0.9814572915692004 0.1907535245037518 
+-0.9723457713710796 0.0264414812127591 -0.2320442823429577 
+-0.0000000000000009 0.0000000000000004 0.0000000000000001 
+~ Wheel `main_dlg_cur` `proe_win` 9 812 418 393216 1536 1532 828 1920 1080 251007
+~ Wheel `main_dlg_cur` `proe_win` 9 972 356 458752 512 1532 828 1920 1080 251513
+~ Wheel `main_dlg_cur` `proe_win` 9 983 347 393216 0 1532 828 1920 1080 251952
+~ Wheel `main_dlg_cur` `proe_win` 9 984 347 393216 512 1532 828 1920 1080 251991
+~ Wheel `main_dlg_cur` `proe_win` 9 985 346 393216 1536 1532 828 1920 1080 252043
+~ Activate `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win|.mcs29658718_mp|select_a\
+ll_check` 0
+!%CILes axes ne seront pas affichés.
+!%CILes points de référence ne seront pas affichés.
+!%CILes repères ne seront pas affichés.
+!%CILes plans de référence ne s'affichent pas.
+~ Wheel `main_dlg_cur` `proe_win` 9 1179 341 393216 512 1532 828 1920 1080 255565
+~ Wheel `main_dlg_cur` `proe_win` 9 1179 341 393216 0 1532 828 1920 1080 255596
+~ Wheel `main_dlg_cur` `proe_win` 9 1179 341 393216 0 1532 828 1920 1080 255607
+~ Wheel `main_dlg_cur` `proe_win` 9 1177 341 393216 512 1532 828 1920 1080 255638
+~ Wheel `main_dlg_cur` `proe_win` 9 1175 341 393216 512 1532 828 1920 1080 255669
+~ Wheel `main_dlg_cur` `proe_win` 9 1172 341 393216 0 1532 828 1920 1080 255781
+~ Wheel `main_dlg_cur` `proe_win` 9 1157 317 458752 0 1532 828 1920 1080 256090
+~ Wheel `main_dlg_cur` `proe_win` 9 1157 316 458752 0 1532 828 1920 1080 256108
+~ Wheel `main_dlg_cur` `proe_win` 9 1156 316 458752 0 1532 828 1920 1080 256133
+~ Wheel `main_dlg_cur` `proe_win` 9 1155 315 458752 0 1532 828 1920 1080 256160
+~ Wheel `main_dlg_cur` `proe_win` 9 1153 315 458752 512 1532 828 1920 1080 256178
+~ Wheel `main_dlg_cur` `proe_win` 9 1153 315 458752 0 1532 828 1920 1080 256195
+~ Wheel `main_dlg_cur` `proe_win` 9 1153 314 458752 0 1532 828 1920 1080 256238
+~ Wheel `main_dlg_cur` `proe_win` 9 1385 288 393216 1536 1532 828 1920 1080 256955
+~ Wheel `main_dlg_cur` `proe_win` 9 1381 270 393216 0 1532 828 1920 1080 257233
+~ Wheel `main_dlg_cur` `proe_win` 9 1368 277 393216 1536 1532 828 1920 1080 257369
+~ Wheel `main_dlg_cur` `proe_win` 9 1351 493 393216 0 1532 828 1920 1080 257745
+~ Wheel `main_dlg_cur` `proe_win` 9 795 542 393216 0 1532 828 1920 1080 258084
+~ Wheel `main_dlg_cur` `proe_win` 9 795 542 393216 0 1532 828 1920 1080 258136
+~ Wheel `main_dlg_cur` `proe_win` 9 1156 480 458752 1536 1532 828 1920 1080 258390
+~ Wheel `main_dlg_cur` `proe_win` 9 1198 469 458752 0 1532 828 1920 1080 258426
+~ Wheel `main_dlg_cur` `proe_win` 9 1201 467 458752 1024 1532 828 1920 1080 258486
+~ Wheel `main_dlg_cur` `proe_win` 9 1201 467 458752 0 1532 828 1920 1080 258543
+~ Command `AdbCmdSearchCommand`  1
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `o`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `op`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `ope`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open `
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open s`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open sy`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open sys`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open syst`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open sys`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open syst`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open systè`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open systèm`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système `
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système w`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système wi`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système win`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système wi`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système w`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système `
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open système`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open systèm`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open systè`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open syst`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open sys`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open sy`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open s`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open `
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `open`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `ope`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `op`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` `o`
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ Input `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ Update `main_dlg_cur` `search_panel_pholder.search_panel_input_panel` ``
+~ LButtonArm `main_dlg_cur` `proe_win` 9 219 133 0 513 1532 828 1920 1080 292936
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 219 133 0 0 1532 828 1920 1080 293010
+@sel_pz_xyz -57.4048913043 708.2201086957 441.3192540842 474.6572875784 0.0000000000
+@ sel view 0
+ -0.075128 -0.006078 -0.313811 -0.061271 0.316751 0.008534
+ 0.307831 0.061563 -0.074889 500.973272 371.194782 -2039.496776 5.960464 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIImpossible de fermer la fenêtre de base.
+< 0 0.981333 1702 0 0 828 1920 0 0 1080 13
+< 0 0.981333 1532 0 0 828 1920 0 0 1080 13
+~ Command `ProCmdWinOpenSystem` 
+!%CDAccès à la fenêtre système. Pour revenir dans l'application, fermez la fenêtre système.
+~ Command `ProCmdSessionChangeDir` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Close `file_open` `file_open`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Close `file_open` `file_open`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1301 520 0 1 1532 828 1920 1080 443476
+** 1.045177 0.370773 0 1 1
+1.045177 0.312840 L 0 0.981333333 0
+~ Move `main_dlg_cur` `proe_win` 9 1301 520 0 1 1532 828 1920 1080 443481
+~ Move `main_dlg_cur` `proe_win` 9 1300 519 0 1537 1532 828 1920 1080 443492
+~ Move `main_dlg_cur` `proe_win` 9 1299 518 0 1537 1532 828 1920 1080 443501
+~ Move `main_dlg_cur` `proe_win` 9 1296 516 0 1537 1532 828 1920 1080 443511
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1296 516 0 0 1532 828 1920 1080 443513

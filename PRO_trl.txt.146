@@ -1,0 +1,866 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdViewHideStandard.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 747 480 0 2 1562 872 1920 1080 40988
+~ Move `main_dlg_cur` `proe_win` 9 748 480 0 514 1562 872 1920 1080 40996
+~ Move `main_dlg_cur` `proe_win` 9 749 479 0 1538 1562 872 1920 1080 41022
+~ Move `main_dlg_cur` `proe_win` 9 750 478 0 1538 1562 872 1920 1080 41031
+~ Move `main_dlg_cur` `proe_win` 9 750 476 0 1026 1562 872 1920 1080 41040
+~ Move `main_dlg_cur` `proe_win` 9 750 475 0 1026 1562 872 1920 1080 41049
+~ Move `main_dlg_cur` `proe_win` 9 750 474 0 1026 1562 872 1920 1080 41058
+~ Move `main_dlg_cur` `proe_win` 9 750 472 0 1026 1562 872 1920 1080 41068
+~ Move `main_dlg_cur` `proe_win` 9 750 468 0 1026 1562 872 1920 1080 41092
+~ Move `main_dlg_cur` `proe_win` 9 750 464 0 1026 1562 872 1920 1080 41102
+~ Move `main_dlg_cur` `proe_win` 9 750 462 0 1026 1562 872 1920 1080 41110
+~ Move `main_dlg_cur` `proe_win` 9 750 460 0 1026 1562 872 1920 1080 41119
+~ Move `main_dlg_cur` `proe_win` 9 750 457 0 1026 1562 872 1920 1080 41128
+~ Move `main_dlg_cur` `proe_win` 9 749 454 0 1538 1562 872 1920 1080 41137
+~ Move `main_dlg_cur` `proe_win` 9 749 450 0 1026 1562 872 1920 1080 41145
+~ Move `main_dlg_cur` `proe_win` 9 748 448 0 1538 1562 872 1920 1080 41154
+~ Move `main_dlg_cur` `proe_win` 9 748 446 0 1026 1562 872 1920 1080 41163
+~ Move `main_dlg_cur` `proe_win` 9 748 445 0 1026 1562 872 1920 1080 41171
+~ Move `main_dlg_cur` `proe_win` 9 748 442 0 1026 1562 872 1920 1080 41180
+~ Move `main_dlg_cur` `proe_win` 9 748 441 0 1026 1562 872 1920 1080 41189
+~ Move `main_dlg_cur` `proe_win` 9 748 438 0 1026 1562 872 1920 1080 41197
+~ Move `main_dlg_cur` `proe_win` 9 748 435 0 1026 1562 872 1920 1080 41206
+~ Move `main_dlg_cur` `proe_win` 9 748 434 0 1026 1562 872 1920 1080 41215
+~ Move `main_dlg_cur` `proe_win` 9 748 433 0 1026 1562 872 1920 1080 41224
+~ Move `main_dlg_cur` `proe_win` 9 748 432 0 1026 1562 872 1920 1080 41232
+~ Move `main_dlg_cur` `proe_win` 9 748 430 0 1026 1562 872 1920 1080 41241
+~ Move `main_dlg_cur` `proe_win` 9 748 429 0 1026 1562 872 1920 1080 41250
+~ Move `main_dlg_cur` `proe_win` 9 748 428 0 1026 1562 872 1920 1080 41258
+~ Move `main_dlg_cur` `proe_win` 9 748 426 0 1026 1562 872 1920 1080 41268
+~ Move `main_dlg_cur` `proe_win` 9 748 425 0 1026 1562 872 1920 1080 41276
+~ Move `main_dlg_cur` `proe_win` 9 748 423 0 1026 1562 872 1920 1080 41293
+~ Move `main_dlg_cur` `proe_win` 9 748 422 0 1026 1562 872 1920 1080 41311
+~ Move `main_dlg_cur` `proe_win` 9 748 421 0 1026 1562 872 1920 1080 41320
+~ Move `main_dlg_cur` `proe_win` 9 748 420 0 1026 1562 872 1920 1080 41329
+~ Move `main_dlg_cur` `proe_win` 9 748 419 0 1026 1562 872 1920 1080 41338
+~ Move `main_dlg_cur` `proe_win` 9 748 418 0 1026 1562 872 1920 1080 41347
+~ Move `main_dlg_cur` `proe_win` 9 748 417 0 1026 1562 872 1920 1080 41354
+~ Move `main_dlg_cur` `proe_win` 9 748 416 0 1026 1562 872 1920 1080 41363
+~ Move `main_dlg_cur` `proe_win` 9 748 415 0 1026 1562 872 1920 1080 41381
+~ Move `main_dlg_cur` `proe_win` 9 748 414 0 1026 1562 872 1920 1080 41399
+~ Move `main_dlg_cur` `proe_win` 9 748 413 0 1026 1562 872 1920 1080 41408
+~ Move `main_dlg_cur` `proe_win` 9 748 412 0 1026 1562 872 1920 1080 41416
+~ Move `main_dlg_cur` `proe_win` 9 748 410 0 1026 1562 872 1920 1080 41434
+~ Move `main_dlg_cur` `proe_win` 9 748 409 0 1026 1562 872 1920 1080 41443
+~ Move `main_dlg_cur` `proe_win` 9 748 408 0 1026 1562 872 1920 1080 41451
+~ Move `main_dlg_cur` `proe_win` 9 748 407 0 1026 1562 872 1920 1080 41460
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 748 407 0 0 1562 872 1920 1080 41478
+~ MButtonArm `main_dlg_cur` `proe_win` 9 482 307 0 2 1562 872 1920 1080 42424
+~ Move `main_dlg_cur` `proe_win` 9 482 306 0 1026 1562 872 1920 1080 42467
+~ Move `main_dlg_cur` `proe_win` 9 482 304 0 1026 1562 872 1920 1080 42475
+~ Move `main_dlg_cur` `proe_win` 9 482 303 0 1026 1562 872 1920 1080 42492
+~ Move `main_dlg_cur` `proe_win` 9 483 301 0 1538 1562 872 1920 1080 42502
+~ Move `main_dlg_cur` `proe_win` 9 484 299 0 1538 1562 872 1920 1080 42511
+~ Move `main_dlg_cur` `proe_win` 9 485 296 0 1538 1562 872 1920 1080 42536
+~ Move `main_dlg_cur` `proe_win` 9 487 290 0 1538 1562 872 1920 1080 42546
+~ Move `main_dlg_cur` `proe_win` 9 487 288 0 1026 1562 872 1920 1080 42554
+~ Move `main_dlg_cur` `proe_win` 9 487 286 0 1026 1562 872 1920 1080 42563
+~ Move `main_dlg_cur` `proe_win` 9 487 284 0 1026 1562 872 1920 1080 42571
+~ Move `main_dlg_cur` `proe_win` 9 487 282 0 1026 1562 872 1920 1080 42580
+~ Move `main_dlg_cur` `proe_win` 9 488 280 0 1538 1562 872 1920 1080 42589
+~ Move `main_dlg_cur` `proe_win` 9 489 278 0 1538 1562 872 1920 1080 42606
+~ Move `main_dlg_cur` `proe_win` 9 489 277 0 1026 1562 872 1920 1080 42623
+~ Move `main_dlg_cur` `proe_win` 9 489 275 0 1026 1562 872 1920 1080 42632
+~ Move `main_dlg_cur` `proe_win` 9 489 274 0 1026 1562 872 1920 1080 42650
+~ Move `main_dlg_cur` `proe_win` 9 489 273 0 1026 1562 872 1920 1080 42658
+~ Move `main_dlg_cur` `proe_win` 9 489 272 0 1026 1562 872 1920 1080 42668
+~ Move `main_dlg_cur` `proe_win` 9 489 271 0 1026 1562 872 1920 1080 42677
+~ Move `main_dlg_cur` `proe_win` 9 489 270 0 1026 1562 872 1920 1080 42693
+~ Move `main_dlg_cur` `proe_win` 9 489 269 0 1026 1562 872 1920 1080 42703
+~ Move `main_dlg_cur` `proe_win` 9 489 268 0 1026 1562 872 1920 1080 42719
+~ Move `main_dlg_cur` `proe_win` 9 489 267 0 1026 1562 872 1920 1080 42773
+~ Move `main_dlg_cur` `proe_win` 9 489 266 0 1026 1562 872 1920 1080 42790
+~ Move `main_dlg_cur` `proe_win` 9 489 265 0 1026 1562 872 1920 1080 42825
+~ Move `main_dlg_cur` `proe_win` 9 489 264 0 1026 1562 872 1920 1080 42852
+~ Move `main_dlg_cur` `proe_win` 9 489 263 0 1026 1562 872 1920 1080 42896
+~ Move `main_dlg_cur` `proe_win` 9 489 262 0 1026 1562 872 1920 1080 42921
+~ Move `main_dlg_cur` `proe_win` 9 488 261 0 1538 1562 872 1920 1080 42939
+~ Move `main_dlg_cur` `proe_win` 9 487 260 0 1538 1562 872 1920 1080 42948
+~ Move `main_dlg_cur` `proe_win` 9 486 259 0 1538 1562 872 1920 1080 42956
+~ Move `main_dlg_cur` `proe_win` 9 485 258 0 1538 1562 872 1920 1080 42965
+~ Move `main_dlg_cur` `proe_win` 9 484 257 0 1538 1562 872 1920 1080 42974
+~ Move `main_dlg_cur` `proe_win` 9 483 256 0 1538 1562 872 1920 1080 42982
+~ Move `main_dlg_cur` `proe_win` 9 482 256 0 514 1562 872 1920 1080 42991
+~ Move `main_dlg_cur` `proe_win` 9 481 255 0 1538 1562 872 1920 1080 43009
+~ Move `main_dlg_cur` `proe_win` 9 480 255 0 514 1562 872 1920 1080 43027
+~ Move `main_dlg_cur` `proe_win` 9 479 254 0 1538 1562 872 1920 1080 43035
+~ Move `main_dlg_cur` `proe_win` 9 478 253 0 1538 1562 872 1920 1080 43052
+~ Move `main_dlg_cur` `proe_win` 9 477 253 0 514 1562 872 1920 1080 43062
+~ Move `main_dlg_cur` `proe_win` 9 476 253 0 514 1562 872 1920 1080 43070
+~ Move `main_dlg_cur` `proe_win` 9 476 252 0 1026 1562 872 1920 1080 43089
+~ Move `main_dlg_cur` `proe_win` 9 475 252 0 514 1562 872 1920 1080 43101
+~ Move `main_dlg_cur` `proe_win` 9 474 252 0 514 1562 872 1920 1080 43122
+~ Move `main_dlg_cur` `proe_win` 9 474 251 0 1026 1562 872 1920 1080 43140
+~ Move `main_dlg_cur` `proe_win` 9 473 251 0 514 1562 872 1920 1080 43149
+~ Move `main_dlg_cur` `proe_win` 9 472 251 0 514 1562 872 1920 1080 43167
+~ Move `main_dlg_cur` `proe_win` 9 471 251 0 514 1562 872 1920 1080 43227
+~ Move `main_dlg_cur` `proe_win` 9 470 251 0 514 1562 872 1920 1080 43299
+~ Move `main_dlg_cur` `proe_win` 9 469 251 0 514 1562 872 1920 1080 44033
+~ Move `main_dlg_cur` `proe_win` 9 468 251 0 514 1562 872 1920 1080 44056
+~ Move `main_dlg_cur` `proe_win` 9 467 251 0 514 1562 872 1920 1080 44076
+~ Move `main_dlg_cur` `proe_win` 9 467 252 0 1026 1562 872 1920 1080 44086
+~ Move `main_dlg_cur` `proe_win` 9 466 252 0 514 1562 872 1920 1080 44102
+~ Move `main_dlg_cur` `proe_win` 9 465 252 0 514 1562 872 1920 1080 44120
+~ Move `main_dlg_cur` `proe_win` 9 465 253 0 1026 1562 872 1920 1080 44128
+~ Move `main_dlg_cur` `proe_win` 9 464 253 0 514 1562 872 1920 1080 44138
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 464 253 0 0 1562 872 1920 1080 44217
+~ Wheel `main_dlg_cur` `proe_win` 9 515 315 458752 1536 1562 872 1920 1080 44514
+~ Wheel `main_dlg_cur` `proe_win` 9 542 351 458752 0 1562 872 1920 1080 44566
+~ Wheel `main_dlg_cur` `proe_win` 9 554 367 458752 1536 1562 872 1920 1080 44602
+~ Wheel `main_dlg_cur` `proe_win` 9 555 368 458752 1536 1562 872 1920 1080 44661
+~ Wheel `main_dlg_cur` `proe_win` 9 555 368 458752 0 1562 872 1920 1080 44689
+~ Wheel `main_dlg_cur` `proe_win` 9 555 370 458752 1024 1562 872 1920 1080 44701
+~ Wheel `main_dlg_cur` `proe_win` 9 556 373 458752 1536 1562 872 1920 1080 44716
+~ LButtonArm `main_dlg_cur` `proe_win` 9 866 832 0 1 1562 872 1920 1080 45766
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 866 832 0 0 1562 872 1920 1080 45827
+@sel_pz_xyz 582.2462729358 38.7041284404 518.1918492980 386.8071420958 0.0000000000
+@ sel view 0
+ -0.258505 -0.008400 0.044449 0.007850 0.245627 0.092070
+ -0.044549 0.092021 -0.241700 505.753890 341.658949 -1681.390319 28.421709 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 2553] 2 11054 -1 (84.2450519368 -3.4931603553) (115.4874250980 3.4931603553 75.4297524941)
+!Surf::F8(EXTRUSION_3):ETAGE2
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 782 179 0 513 1562 872 1920 1080 47140
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 782 179 0 0 1562 872 1920 1080 47220
+@sel_pz_xyz 500.9676032110 670.5490252294 515.3321103395 409.0382080469 0.0000000000
+@ sel view 0
+ -0.258505 -0.008400 0.044449 0.007850 0.245627 0.092070
+ -0.044549 0.092021 -0.241700 505.753890 341.658949 -1681.390319 28.421709 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 2560] 2 159 -1 (-28.1860323683 121.1611646108) (-121.1611646108 0.0000000000 28.1860323683)
+!Surf::F6(EXTRUSION_1):ETAGE_TOIT
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.069000 1069 0 0 1000 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1000 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1003 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1006 1920 0 0 1080 13
+< 2 1.054000 1054 0 0 1006 1920 0 0 1080 13
+< 2 1.039407 1736 0 0 877 1920 0 0 1080 13
+< 2 1.039407 1562 0 0 877 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 1.039407 1636 0 0 877 1920 0 0 1080 13
+< 2 1.039407 1632 0 0 877 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 30`
+!Esquisse 18
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!sket_eps       3.869181223
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w2:PHTLeft.AssyTree:<NULL>`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 428 393 0 2 1632 877 1920 1080 54859
+~ Move `main_dlg_cur` `proe_win` 9 428 394 0 1026 1632 877 1920 1080 54865
+~ Move `main_dlg_cur` `proe_win` 9 427 394 0 514 1632 877 1920 1080 54874
+~ Move `main_dlg_cur` `proe_win` 9 425 395 0 1538 1632 877 1920 1080 54883
+~ Move `main_dlg_cur` `proe_win` 9 424 396 0 1538 1632 877 1920 1080 54894
+~ Move `main_dlg_cur` `proe_win` 9 422 397 0 1538 1632 877 1920 1080 54901
+~ Move `main_dlg_cur` `proe_win` 9 420 398 0 1538 1632 877 1920 1080 54909
+~ Move `main_dlg_cur` `proe_win` 9 415 400 0 1538 1632 877 1920 1080 54931
+~ Move `main_dlg_cur` `proe_win` 9 412 401 0 1538 1632 877 1920 1080 54935
+~ Move `main_dlg_cur` `proe_win` 9 409 402 0 1538 1632 877 1920 1080 54945
+~ Move `main_dlg_cur` `proe_win` 9 406 402 0 514 1632 877 1920 1080 54953
+~ Move `main_dlg_cur` `proe_win` 9 404 403 0 1538 1632 877 1920 1080 54962
+~ Move `main_dlg_cur` `proe_win` 9 400 403 0 514 1632 877 1920 1080 54970
+~ Move `main_dlg_cur` `proe_win` 9 396 404 0 1538 1632 877 1920 1080 54979
+~ Move `main_dlg_cur` `proe_win` 9 390 404 0 514 1632 877 1920 1080 54987
+~ Move `main_dlg_cur` `proe_win` 9 387 404 0 514 1632 877 1920 1080 54997
+~ Move `main_dlg_cur` `proe_win` 9 384 404 0 514 1632 877 1920 1080 55005
+~ Move `main_dlg_cur` `proe_win` 9 381 404 0 514 1632 877 1920 1080 55014
+~ Move `main_dlg_cur` `proe_win` 9 378 404 0 514 1632 877 1920 1080 55023
+~ Move `main_dlg_cur` `proe_win` 9 376 404 0 514 1632 877 1920 1080 55032
+~ Move `main_dlg_cur` `proe_win` 9 375 404 0 514 1632 877 1920 1080 55040
+~ Move `main_dlg_cur` `proe_win` 9 373 404 0 514 1632 877 1920 1080 55049
+~ Move `main_dlg_cur` `proe_win` 9 369 404 0 514 1632 877 1920 1080 55058
+~ Move `main_dlg_cur` `proe_win` 9 367 404 0 514 1632 877 1920 1080 55066
+~ Move `main_dlg_cur` `proe_win` 9 365 404 0 514 1632 877 1920 1080 55075
+~ Move `main_dlg_cur` `proe_win` 9 363 404 0 514 1632 877 1920 1080 55083
+~ Move `main_dlg_cur` `proe_win` 9 361 403 0 1538 1632 877 1920 1080 55093
+~ Move `main_dlg_cur` `proe_win` 9 359 403 0 514 1632 877 1920 1080 55101
+~ Move `main_dlg_cur` `proe_win` 9 358 402 0 1538 1632 877 1920 1080 55111
+~ Move `main_dlg_cur` `proe_win` 9 355 402 0 514 1632 877 1920 1080 55119
+~ Move `main_dlg_cur` `proe_win` 9 352 402 0 514 1632 877 1920 1080 55128
+~ Move `main_dlg_cur` `proe_win` 9 350 402 0 514 1632 877 1920 1080 55136
+~ Move `main_dlg_cur` `proe_win` 9 347 401 0 1538 1632 877 1920 1080 55145
+~ Move `main_dlg_cur` `proe_win` 9 343 401 0 514 1632 877 1920 1080 55154
+~ Move `main_dlg_cur` `proe_win` 9 341 401 0 514 1632 877 1920 1080 55163
+~ Move `main_dlg_cur` `proe_win` 9 338 401 0 514 1632 877 1920 1080 55172
+~ Move `main_dlg_cur` `proe_win` 9 337 401 0 514 1632 877 1920 1080 55180
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 337 401 0 0 1632 877 1920 1080 55226
+~ Wheel `main_dlg_cur` `proe_win` 9 400 475 458752 0 1632 877 1920 1080 55391
+~ Wheel `main_dlg_cur` `proe_win` 9 548 672 458752 1536 1632 877 1920 1080 55564
+~ Wheel `main_dlg_cur` `proe_win` 9 559 682 458752 0 1632 877 1920 1080 55600
+~ Wheel `main_dlg_cur` `proe_win` 9 565 686 458752 0 1632 877 1920 1080 55636
+~ Wheel `main_dlg_cur` `proe_win` 9 574 694 458752 0 1632 877 1920 1080 55679
+~ Wheel `main_dlg_cur` `proe_win` 9 615 697 458752 0 1632 877 1920 1080 56144
+~ Wheel `main_dlg_cur` `proe_win` 9 616 697 458752 0 1632 877 1920 1080 56178
+~ Wheel `main_dlg_cur` `proe_win` 9 618 697 458752 0 1632 877 1920 1080 56214
+~ Wheel `main_dlg_cur` `proe_win` 9 618 697 458752 0 1632 877 1920 1080 56283
+~ Command `ProCmdSketQuit` 
+!%CPConfirmer pour sortir.
+! Message Dialog: Warning
+!               : Voulez-vous quitter l'esquisse ?
+!               : Les modifications apportées dans l'esquisse ne seront pas enregistrées.
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 1.039407 1736 0 0 877 1920 0 0 1080 13
+< 2 1.039407 1562 0 0 877 1920 0 0 1080 13
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 1.033481 1573 0 0 872 1920 0 0 1080 13
+< 0 1.033481 1580 0 0 872 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 859 821 0 1 1580 872 1920 1080 63083
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 859 821 0 0 1580 872 1920 1080 63180
+@sel_pz_xyz 566.7646215596 49.3477637615 517.6471371154 387.1816317213 0.0000000000
+@ sel view 0
+ -0.258505 -0.008400 0.044449 0.007850 0.245627 0.092070
+ -0.044549 0.092021 -0.241700 505.753890 341.658949 -1681.390319 28.421709 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 2553] 2 11054 -1 (86.7046484953 -1.3722041190) (117.2266225035 1.3722041190 73.6905550886)
+!Surf::F8(EXTRUSION_3):ETAGE2
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.069000 1069 0 0 1000 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1000 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1003 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1006 1920 0 0 1080 13
+< 2 1.054000 1054 0 0 1006 1920 0 0 1080 13
+< 2 1.039407 1736 0 0 877 1920 0 0 1080 13
+< 2 1.039407 1562 0 0 877 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 1.039407 1636 0 0 877 1920 0 0 1080 13
+< 2 1.039407 1632 0 0 877 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 38`
+!Esquisse 16
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 34`
+!Esquisse 15
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 38`
+!Esquisse 16
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 319 253 0 1 1632 877 1920 1080 74590
+~ Move `main_dlg_cur` `proe_win` 9 320 253 0 513 1632 877 1920 1080 74607
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 320 253 0 0 1632 877 1920 1080 74632
+@sel_pz_xyz 21.8429304447 600.3420752566 21.8429304447 600.3420752566 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 556 252 0 1 1632 877 1920 1080 74984
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 556 252 0 0 1632 877 1920 1080 75045
+@sel_pz_xyz 249.8574686431 601.3041619156 249.8574686431 601.3041619156 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 159 -1 (-101.4721536942 -72.7867563999) (72.7867563999 0.0000000000 101.4721536942)
+!Surf::F6(EXTRUSION_1)
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ Command `ProCmdFtExtrude` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Extrusion
+!ODUI session started.
+!%CPSélectionnez un plan ou une surface plane comme plan d'esquisse, ou sélectionnez une esquisse.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!sket_eps       2.943625637
+!Command ProCmdSketSetup was pushed from the software.
+!Command ProCmdSketQuit was pushed from the software.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Command `ProCmdSketLine`  1
+!%CPSélectionner le point de départ.
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ Enter `main_dlg_cur` `proe_win` 9 359 7 0 1536 1632 877 1920 1080 78097
+~ Move `main_dlg_cur` `proe_win` 9 359 7 0 0 1632 877 1920 1080 78097
+>M rb_append_tb_cnd_CB ProeWin2 188 788 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 190 794 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 536 275 0 1 1632 877 1920 1080 79026
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CPSélectionner le point final.
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 536 275 0 0 1632 877 1920 1080 79079
+0.230616 0.578214 N 0 1.039407407 2
+~ Move `main_dlg_cur` `proe_win` 9 534 275 0 512 1632 877 1920 1080 79104
+>M rb_append_tb_cnd_CB ProeWin2 209 772 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 209 771 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 209 771 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 208 771 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 208 771 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 208 771 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 208 770 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 208 770 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 207 770 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_loop_touch_tt_ch ProeWin2 596 174 c0 0 1632 0 0 877 1920 0 0 1080 13
+@SELECT_3D_GEOM 2 0 0 3 26106 -1 0.6185890020 0.0000000000 104.142263 0.000000 86.774914
+>M rb_append_tb_cnd_CB ProeWin2 207 770 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 208 771 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 209 771 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 209 772 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 617 195 0 513 1632 877 1920 1080 82570
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CPSélectionner le point de départ.
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 617 195 0 0 1632 877 1920 1080 82648
+0.308545 0.655181 N 0 1.039407407 2
+~ Move `main_dlg_cur` `proe_win` 9 617 195 0 0 1632 877 1920 1080 82649
+~ Wheel `main_dlg_cur` `proe_win` 9 698 226 458752 0 1632 877 1920 1080 84410
+!sket_eps        2.35490051
+~ Wheel `main_dlg_cur` `proe_win` 9 697 227 458752 0 1632 877 1920 1080 84419
+!sket_eps       1.883920408
+~ Wheel `main_dlg_cur` `proe_win` 9 697 228 458752 0 1632 877 1920 1080 84441
+!sket_eps       1.507136326
+~ LButtonArm `main_dlg_cur` `proe_win` 9 378 319 0 1 1632 877 1920 1080 85352
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CPSélectionner le point final.
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 378 319 0 0 1632 877 1920 1080 85405
+0.228568 0.579615 N 0 1.039407407 2
+~ Move `main_dlg_cur` `proe_win` 9 380 318 0 1536 1632 877 1920 1080 85465
+>M rb_append_tb_cnd_CB ProeWin2 202 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 202 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 202 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 202 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 201 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 201 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 201 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 201 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 201 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_loop_touch_tt_ch ProeWin2 470 147 c0 0 1632 0 0 877 1920 0 0 1080 13
+@SELECT_3D_GEOM 2 0 0 3 26106 -1 0.5466574437 0.0000000000 98.875078 0.000000 92.042099
+>M rb_append_tb_cnd_CB ProeWin2 201 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 201 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 201 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 202 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 202 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 202 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 202 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 203 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 203 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 203 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 203 774 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26106 3 0
+>M rb_append_tb_cnd_CB ProeWin2 204 775 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 524 175 0 1 1632 877 1920 1080 89789
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 524 175 0 0 1632 877 1920 1080 89850
+0.300486 0.650548 N 0 1.039407407 2
+~ Move `main_dlg_cur` `proe_win` 9 525 175 0 512 1632 877 1920 1080 90034
+>M rb_append_tb_cnd_CB ProeWin2 212 780 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 213 781 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 213 781 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 213 781 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 214 781 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 580 232 0 1 1632 877 1920 1080 92011
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 580 232 0 0 1632 877 1920 1080 92108
+0.328071 0.622470 N 0 1.039407407 2
+~ Move `main_dlg_cur` `proe_win` 9 579 232 0 512 1632 877 1920 1080 92248
+>M rb_append_tb_cnd_CB ProeWin2 224 792 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 8 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 223 792 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 8 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 223 793 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 8 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 223 793 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 8 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 223 793 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 8 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 222 793 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 438 371 0 1 1632 877 1920 1080 94882
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 438 371 0 0 1632 877 1920 1080 94933
+0.258124 0.554000 N 0 1.039407407 2
+~ Move `main_dlg_cur` `proe_win` 9 437 371 0 512 1632 877 1920 1080 95048
+>M rb_append_tb_cnd_CB ProeWin2 194 821 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 194 821 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 194 821 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 2 7 0
+>M rb_append_tb_cnd_CB ProeWin2 193 820 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 193 820 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 183 812 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 183 811 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 182 811 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 182 811 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 182 811 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 181 811 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 181 811 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 181 811 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 181 810 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 181 810 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 373 320 0 1 1632 877 1920 1080 95624
+>M rb_append_tb_cnd_CB ProeWin2 181 810 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 373 320 0 0 1632 877 1920 1080 95695
+0.226105 0.579122 N 0 1.039407407 2
+~ Move `main_dlg_cur` `proe_win` 9 373 319 0 1024 1632 877 1920 1080 95774
+>M rb_append_tb_cnd_CB ProeWin2 181 810 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 181 810 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 182 810 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 182 810 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 182 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 182 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 183 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 183 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 183 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 184 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 185 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 186 809 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 207 808 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 207 807 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 207 807 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 207 807 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 207 807 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 217 799 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 219 797 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 222 794 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 4 7 0
+>M rb_append_tb_cnd_CB ProeWin2 224 793 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 9 1 7 0
+>M rb_append_tb_cnd_CB ProeWin2 228 790 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 277 761 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 26774 55 0
+>M rb_append_tb_cnd_CB ProeWin2 281 758 c0 0 1632 0 0 877 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Command `ProCmdSketDimension`  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 529 291 0 1 1632 877 1920 1080 98696
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 529 291 0 0 1632 877 1920 1080 98767
+@sel_pz_xyz 223.8811288483 563.7827822121 302.9492588369 593.8999429875 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 LINE 
+2 4
+@ sel2d 0 LINE 
+2 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 4 9 (0.3827586207 1.0000000000) (302.9492588369 593.8999429875 0.0000000000)
+!Ligne
+~ MButtonArm `main_dlg_cur` `proe_win` 9 553 315 0 2 1632 877 1920 1080 99101
+~ Move `main_dlg_cur` `proe_win` 9 553 316 0 1026 1632 877 1920 1080 99106
+~ Move `main_dlg_cur` `proe_win` 9 553 317 0 1026 1632 877 1920 1080 99151
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 553 317 0 0 1632 877 1920 1080 99213
+** 0.246971 0.637400 2 4 4
+0.314771 0.580600 M 0 1.039407407 2
+@ dimtype
+ 1
+~ Key `main_dlg_cur` `proe_win` 9 597 360 540344373 512 1632 877 1920 1080 99571 `5`
+< 2 1.038222 1632 0 0 876 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 547 324 0 1 1632 876 1920 1080 102827
+~ Move `main_dlg_cur` `proe_win` 9 548 324 0 513 1632 876 1920 1080 102834
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 548 324 0 0 1632 876 1920 1080 102897
+@sel_pz_xyz 240.9032534247 531.6780821918 311.6645866200 577.4623365771 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 548 324 0 129 1632 876 1920 1080 102985
+** 0.241866 0.628995 2 64 64
+0.312158 0.576969 E 0 1.038222222 2
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ Move `main_dlg_cur` `proe_win` 9 549 324 0 513 1632 876 1920 1080 103010
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 549 324 0 0 1632 876 1920 1080 103063
+~ LButtonArm `main_dlg_cur` `proe_win` 9 567 311 0 1 1632 876 1920 1080 103378
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 567 311 0 0 1632 876 1920 1080 103432
+@sel_pz_xyz 260.1669520548 544.1994863014 321.5276003186 583.8732954812 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 567 311 0 129 1632 876 1920 1080 103535
+** 0.260167 0.643836 2 64 64
+0.321528 0.583380 E 0 1.038222222 2
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 567 311 0 0 1632 876 1920 1080 103605
+~ LButtonArm `main_dlg_cur` `proe_win` 9 566 318 0 1 1632 876 1920 1080 103920
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 566 318 0 0 1632 876 1920 1080 103991
+@sel_pz_xyz 259.2037671233 537.4571917808 321.0344496337 580.4212406866 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ stack idx 0
+@SEL_REC 0 [ ] 7 10 4 (0.0000000000 -1.0000000000) (321.0344496337 580.4212406866 0.0000000000)
+!sd4 = 40.98  (Fort)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 566 318 0 129 1632 876 1920 1080 104087
+~ Move `main_dlg_cur` `proe_win` 9 566 318 0 1 1632 876 1920 1080 104099
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 566 318 0 0 1632 876 1920 1080 104139
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+!%CPSélectionnez un plan ou une surface plane comme plan d'esquisse, ou sélectionnez une esquisse.
+~ HTMLEnter `main_dlg_cur` `dashboard_page_0|dashboard_help_0|0.read_more`
+~ HTMLExit `main_dlg_cur` `dashboard_page_0|dashboard_help_0|0.read_more`
+~ Activate `main_dlg_cur` `maindashInst0.remove_material_cb` 1
+~ Activate `main_dlg_cur` `maindashInst0.flip_pb`
+~ Select `main_dlg_cur` `maindashInst0.depth_flyout`
+~ Close `main_dlg_cur` `maindashInst0.depth_flyout`
+~ Activate `main_dlg_cur` `maindashInst0.Thru Until` 1
+!%CPSpécifier la référence de profondeur du côté 1. Vous pouvez également changer l'option de profondeur.
+~ Trigger `main_dlg_cur` `maindashInst0.def_depth1_sel_list` `0`
+~ Trigger `main_dlg_cur` `maindashInst0.def_depth1_sel_list` ``
+~ Select `main_dlg_cur` `maindashInst0.depth_flyout`
+~ Close `main_dlg_cur` `maindashInst0.depth_flyout`
+~ Activate `main_dlg_cur` `maindashInst0.tonext` 1
+!%CPSélectionnez un plan ou une surface plane comme plan d'esquisse, ou sélectionnez une esquisse.
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!F29(EXTRUSION_13)
+!Undo: added rec_id 1324 type 5304 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 344 143 0 1 1632 876 1920 1080 121088
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 344 143 0 0 1632 876 1920 1080 121141
+@sel_pz_xyz 45.3767123288 706.0145547945 211.5549975789 666.7226105497 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Command `ProCmdModelSave` 
+!%CIETAGE2 a été sauvé.
+< 2 1.047704 1640 0 0 884 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `T3 42`
+!Expanded Extrusion 13
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `S 42 0`
+!Section 1
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!sket_eps       1.499784442
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 550 314 0 1 1640 884 1920 1080 131249
+@sel_pz_xyz 242.2935520362 544.0469457014 312.3764195091 583.7951946940 0.0000000000
+** 0.242294 0.643665 2 1 1
+0.312376 0.583307 L 0 1.047703704 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 550 314 0 0 1640 884 1920 1080 131308
+@sel_pz_xyz 242.2935520362 544.0469457014 312.3764195091 583.7951946940 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 550 314 0 129 1640 884 1920 1080 131397
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+** 0.242294 0.643665 2 64 64
+0.312376 0.583307 E 0 1.047703704 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 550 314 0 0 1640 884 1920 1080 131467
+~ LButtonArm `main_dlg_cur` `proe_win` 9 554 321 0 1 1640 884 1920 1080 131826
+@sel_pz_xyz 246.1114253394 537.3656674208 314.3311706403 580.3743802143 0.0000000000
+** 0.246111 0.635747 2 1 1
+0.314331 0.579886 L 0 1.047703704 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 554 321 0 0 1640 884 1920 1080 131887
+@sel_pz_xyz 246.1114253394 537.3656674208 314.3311706403 580.3743802143 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ stack idx 0
+!sd4 = 40.98  (Fort)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 554 321 0 129 1640 884 1920 1080 131983
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+** 0.246111 0.635747 2 64 64
+0.314331 0.579886 E 0 1.047703704 2
+~ Move `main_dlg_cur` `proe_win` 9 554 321 0 1 1640 884 1920 1080 131993
+~ Move `main_dlg_cur` `proe_win` 9 554 321 0 1 1640 884 1920 1080 132000
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 554 321 0 0 1640 884 1920 1080 132044
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+!%CPConfirmer pour sortir.
+! Message Dialog: Warning
+!               : Voulez-vous quitter l'esquisse ?
+!               : Les modifications apportées dans l'esquisse ne seront pas enregistrées.
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+< 2 1.047704 1744 0 0 884 1920 0 0 1080 13
+< 2 1.047704 1570 0 0 884 1920 0 0 1080 13
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 1.033481 1573 0 0 872 1920 0 0 1080 13
+< 0 1.033481 1580 0 0 872 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) va se fermer et les tâches non enregistrées seront perdues.
+!               : Voulez-vous vraiment quitter ?
+~ Close `UI Message Dialog` `UI Message Dialog`
+< 0 1.042963 1588 0 0 880 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 858 829 0 513 1588 880 1920 1080 141854
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 858 829 0 0 1588 880 1920 1080 141914
+@sel_pz_xyz 561.3636363636 48.8991477273 517.4571068426 387.1658474479 0.0000000000
+@ sel view 0
+ -0.258505 -0.008400 0.044449 0.007850 0.245627 0.092070
+ -0.044549 0.092021 -0.241700 505.753890 341.658949 -1681.390319 28.421709 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 2553] 3 26106 -1 (0.8074382587 0.0000000000) (117.9707423878 0.0000000000 72.9464352043)
+!Arête:F24(ARRONDI_1):ETAGE2
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.069000 1069 0 0 1000 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1000 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1003 1920 0 0 1080 13
+< 2 1.072000 1072 0 0 1006 1920 0 0 1080 13
+< 2 1.054000 1054 0 0 1006 1920 0 0 1080 13
+< 2 1.039407 1736 0 0 877 1920 0 0 1080 13
+< 2 1.048889 1744 0 0 885 1920 0 0 1080 13
+< 2 1.048889 1570 0 0 885 1920 0 0 1080 13
+~ Resize `main_dlg_w2` `main_dlg_w2` 0
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 1.048889 1644 0 0 885 1920 0 0 1080 13
+< 2 1.048889 1639 0 0 885 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 42`
+!Extrusion 13
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `T3 42`
+!Expanded Extrusion 13
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `S 42 0`
+!Section 1
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!sket_eps       2.931053715
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 630 279 0 1 1639 885 1920 1080 150078
+@sel_pz_xyz 319.3326271186 577.7542372881 319.3326271186 577.7542372881 0.0000000000
+** 0.319333 0.683616 2 1 1
+0.319333 0.576801 L 0 1.048888889 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 630 279 0 0 1639 885 1920 1080 150158
+@sel_pz_xyz 319.3326271186 577.7542372881 319.3326271186 577.7542372881 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ stack idx 0
+!sd4 = 40.98  (Fort)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 630 279 0 129 1639 885 1920 1080 150236
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+** 0.319333 0.683616 2 64 64
+0.319333 0.576801 E 0 1.048888889 2
+~ Move `main_dlg_cur` `proe_win` 9 630 279 0 1 1639 885 1920 1080 150246
+~ Move `main_dlg_cur` `proe_win` 9 630 279 0 1 1639 885 1920 1080 150251
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 630 279 0 0 1639 885 1920 1080 150324
+~ LButtonArm `main_dlg_cur` `proe_win` 9 629 279 0 1 1639 885 1920 1080 150796
+@sel_pz_xyz 318.3792372881 577.7542372881 318.3792372881 577.7542372881 0.0000000000
+** 0.318379 0.683616 2 1 1
+0.318379 0.576801 L 0 1.048888889 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 629 279 0 0 1639 885 1920 1080 150883
+@sel_pz_xyz 318.3792372881 577.7542372881 318.3792372881 577.7542372881 0.0000000000
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+@ stack idx 0
+!sd4 = 40.98  (Fort)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 629 279 0 129 1639 885 1920 1080 150971
+@ sel view 0
+ 0.000000 0.000000 -2.465135 2.465135 0.000000 0.000000
+ 0.000000 -2.465135 0.000000 500.000000 421.875000 -1903.520484 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 4 1 1 9 -1
+** 0.318379 0.683616 2 64 64
+0.318379 0.576801 E 0 1.048888889 2
+~ Move `main_dlg_cur` `proe_win` 9 629 279 0 1 1639 885 1920 1080 150980
+~ Move `main_dlg_cur` `proe_win` 9 629 279 0 1 1639 885 1920 1080 150985
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 629 279 0 0 1639 885 1920 1080 151067
+< 2 1.035852 1631 0 0 874 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 4 0.000000 0.000000 49.823911 28.025950
+< 2 1.045333 1639 0 0 882 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+!%CPConfirmer pour sortir.
+! Message Dialog: Warning
+!               : Voulez-vous quitter l'esquisse ?
+!               : Les modifications apportées dans l'esquisse ne seront pas enregistrées.
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+< 2 1.045333 1744 0 0 882 1920 0 0 1080 13
+< 2 1.045333 1570 0 0 882 1920 0 0 1080 13
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 1.042963 1581 0 0 880 1920 0 0 1080 13
+< 0 1.042963 1587 0 0 880 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) va se fermer et les tâches non enregistrées seront perdues.
+!               : Voulez-vous vraiment quitter ?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

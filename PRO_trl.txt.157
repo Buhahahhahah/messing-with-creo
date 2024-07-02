@@ -1,0 +1,102 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditRedefFeat.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!sket_eps       1.272004892
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w3:PHTLeft.AssyTree:<NULL>`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 358 436 0 1 1583 834 1920 1080 177324
+@sel_pz_xyz 61.4321043165 402.6528776978 61.4321043165 402.6528776978 0.0000000000
+** 0.061432 0.476019 3 1 1
+0.061432 0.401641 L 0 0.988444444 3
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 358 436 0 0 1583 834 1920 1080 177403
+@sel_pz_xyz 61.4321043165 402.6528776978 61.4321043165 402.6528776978 0.0000000000
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 1 3 1 4 -1
+@ sel2d 0 SKETCH_DIM 
+0 10 1 3 1 4 -1
+@ stack idx 0
+!sd1 = 1.50  (Fort)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 358 436 0 129 1583 834 1920 1080 177474
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 1 3 1 4 -1
+** 0.061432 0.476019 3 64 64
+0.061432 0.401641 E 0 0.988444444 3
+~ Move `main_dlg_cur` `proe_win` 9 358 436 0 1 1583 834 1920 1080 177496
+~ Move `main_dlg_cur` `proe_win` 9 358 436 0 1 1583 834 1920 1080 177506
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 358 436 0 0 1583 834 1920 1080 177543
+~ LButtonArm `main_dlg_cur` `proe_win` 9 377 438 0 1 1583 834 1920 1080 179468
+@sel_pz_xyz 80.6542266187 400.6294964029 80.6542266187 400.6294964029 0.0000000000
+** 0.080654 0.473621 3 1 1
+0.080654 0.399618 L 0 0.988444444 3
+~ Move `main_dlg_cur` `proe_win` 9 376 438 0 513 1583 834 1920 1080 179477
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 376 438 0 0 1583 834 1920 1080 179522
+@sel_pz_xyz 79.6425359712 400.6294964029 79.6425359712 400.6294964029 0.0000000000
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 1 3 1 4 -1
+@ sel2d 0 SKETCH_DIM 
+0 10 1 3 1 4 -1
+@ stack idx 0
+!sd1 = 1.50  (Fort)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 376 438 0 129 1583 834 1920 1080 179607
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 SKETCH_DIM 
+0 10 1 3 1 4 -1
+** 0.079643 0.473621 3 64 64
+0.079643 0.399618 E 0 0.988444444 3
+~ Move `main_dlg_cur` `proe_win` 9 376 438 0 1 1583 834 1920 1080 179630
+~ Move `main_dlg_cur` `proe_win` 9 376 438 0 1 1583 834 1920 1080 179635
+~ Move `main_dlg_cur` `proe_win` 9 375 438 0 513 1583 834 1920 1080 179647
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 375 438 0 0 1583 834 1920 1080 179669
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+!%CPConfirmer pour sortir.
+! Message Dialog: Warning
+!               : Voulez-vous quitter l'esquisse ?
+!               : Les modifications apportées dans l'esquisse ne seront pas enregistrées.
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+< 3 0.988444 1702 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1532 0 0 834 1920 0 0 1080 13
+< 2 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 2 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 0.981333 1702 0 0 828 1920 0 0 1080 13
+< 2 0.981333 1532 0 0 828 1920 0 0 1080 13
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 0 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) va se fermer et les tâches non enregistrées seront perdues.
+!               : Voulez-vous vraiment quitter ?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

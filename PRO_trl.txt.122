@@ -1,0 +1,145 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditRedefFeat.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w2:PHTLeft.AssyTree:<NULL>`
+~ Command `ProCmdSketDimension`  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 401 433 0 1 1583 834 1920 1080 357656
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 401 433 0 0 1583 834 1920 1080 357717
+@sel_pz_xyz 104.9348021583 405.6879496403 104.9348021583 405.6879496403 0.0000000000
+@ sel view 0
+ 6.945772 0.000000 0.000000 -0.000000 6.945772 0.000000
+ 0.000000 0.000000 6.945772 173.591946 407.903803 -1649.254607 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 ARC 
+0 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 2 (0.0000000000 1.0000000000) (104.9348021583 405.6879496403 0.0000000000)
+!Point
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1186 434 0 1 1583 834 1920 1080 358949
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1186 434 0 0 1583 834 1920 1080 358994
+@sel_pz_xyz 899.1119604317 404.6762589928 899.1119604317 404.6762589928 0.0000000000
+@ sel view 0
+ 6.945772 0.000000 0.000000 -0.000000 6.945772 0.000000
+ 0.000000 0.000000 6.945772 173.591946 407.903803 -1649.254607 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 ARC 
+2 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 29 (0.0000000000 1.0000000000) (899.1119604317 404.6762589928 0.0000000000)
+!Point
+~ MButtonArm `main_dlg_cur` `proe_win` 9 850 179 0 2 1583 834 1920 1080 359607
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 850 179 0 0 1583 834 1920 1080 359694
+** 0.559184 0.784173 2 4 4
+0.559184 0.661646 M 0 0.988444444 2
+@ dimtype
+ 8
+!%CPLes restrictions 2 et les cotes  1 en surbrillance sont conflictuelles. Sélectionnez-en une à supprimer ou convertir.
+~ Close `resolve_dim_dg` `resolve_dim_dg`
+!%CELa régénération a été annulée par l'utilisateur.
+!%CIImpossible d'ajouter la cote sélectionnée.
+~ Move `main_dlg_cur` `proe_win` 9 1433 5 67108864 0 1583 834 1920 1080 364052
+~ Exit `main_dlg_cur` `proe_win` 9 1418 71 67108864 1536 1583 834 1920 1080 364362
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRégénération de la fonction BIELLE_M2_V3_2 7 sur 7 ...
+!%CILa régénération de BIELLE_M2_V3_2 est terminée.
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 92 type 5300 
+!%CILa fonction a été redéfinie.
+!F7(ESQUISSE_2)
+~ Enter `main_dlg_cur` `proe_win` 9 1297 93 67108864 1536 1583 834 1920 1080 366466
+~ Move `main_dlg_cur` `proe_win` 9 1298 111 0 1536 1583 834 1920 1080 366505
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w3`
+< 3 0.988444 1576 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1583 0 0 834 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 3 0.988444 1576 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1583 0 0 834 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T3 9`
+!Esquisse 2
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!sket_eps       0.986744696
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w3:PHTLeft.AssyTree:<NULL>`
+~ Command `ProCmdSketDimension`  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 707 467 0 1 1583 834 1920 1080 373310
+~ Move `main_dlg_cur` `proe_win` 9 707 466 0 1025 1583 834 1920 1080 373335
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 707 466 0 0 1583 834 1920 1080 373371
+@sel_pz_xyz 414.5121402878 371.2904676259 92.4378934353 389.6526528777 -0.0000000000
+@ sel view 0
+ 7.451904 0.000000 0.000000 0.000000 7.451904 0.000000
+ 0.000000 0.000000 7.451904 127.404789 386.103483 -1662.181246 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 ARC 
+0 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 2 (0.0000000000 1.0000000000) (92.4378934353 389.6526528777 0.0000000000)
+!Point
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1506 473 0 1 1583 834 1920 1080 374531
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1506 473 0 0 1583 834 1920 1080 374578
+@sel_pz_xyz 1222.8529676259 365.2203237410 900.7787207734 383.5825089928 -0.0000000000
+@ sel view 0
+ 7.451904 0.000000 0.000000 0.000000 7.451904 0.000000
+ 0.000000 0.000000 7.451904 127.404789 386.103483 -1662.181246 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 ARC 
+2 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 19 (0.0000000000 1.0000000000) (900.7787207734 383.5825089928 0.0000000000)
+!Point
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1299 311 0 2 1583 834 1920 1080 375025
+~ Move `main_dlg_cur` `proe_win` 9 1299 310 0 1026 1583 834 1920 1080 375122
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1299 310 0 0 1583 834 1920 1080 375124
+** 1.013433 0.627098 3 4 4
+0.691359 0.547476 M 0 0.988444444 3
+@ dimtype
+ 8
+!%CPLes restrictions 2 et les cotes  1 en surbrillance sont conflictuelles. Sélectionnez-en une à supprimer ou convertir.
+~ Close `resolve_dim_dg` `resolve_dim_dg`
+!%CELa régénération a été annulée par l'utilisateur.
+!%CIImpossible d'ajouter la cote sélectionnée.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1397 127 0 1 1583 834 1920 1080 378000
+~ Move `main_dlg_cur` `proe_win` 9 1398 127 0 513 1583 834 1920 1080 378016
+~ Move `main_dlg_cur` `proe_win` 9 1400 127 0 513 1583 834 1920 1080 378032
+~ Move `main_dlg_cur` `proe_win` 9 1401 127 0 513 1583 834 1920 1080 378040
+~ Move `main_dlg_cur` `proe_win` 9 1402 127 0 513 1583 834 1920 1080 378051
+~ Move `main_dlg_cur` `proe_win` 9 1403 127 0 513 1583 834 1920 1080 378058
+~ Move `main_dlg_cur` `proe_win` 9 1405 127 0 513 1583 834 1920 1080 378067
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1405 127 0 0 1583 834 1920 1080 378070
+@sel_pz_xyz 1112.5786870504 715.2652877698 790.5044401978 733.6274730216 -0.0000000000
+@ sel view 0
+ 7.451904 0.000000 0.000000 0.000000 7.451904 0.000000
+ 0.000000 0.000000 7.451904 127.404789 386.103483 -1662.181246 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1

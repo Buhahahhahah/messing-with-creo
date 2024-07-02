@@ -1,0 +1,1361 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Message Dialog: Warning
+!               : Voulez-vous quitter l'esquisse ?
+!               : Les modifications apportées dans l'esquisse ne seront pas enregistrées.
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+~ Move `main_dlg_cur` `proe_win` 9 1218 256 67108864 0 1583 834 1920 1080 180879
+~ Exit `main_dlg_cur` `proe_win` 9 1216 253 67108864 0 1583 834 1920 1080 181109
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w2`
+< 2 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 2 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ LButtonArm `main_dlg_cur` `proe_win` 9 842 317 0 1 1498 828 1920 1080 182686
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 842 317 0 0 1498 828 1920 1080 182739
+@sel_pz_xyz 594.7690217391 520.7201086957 594.7690217391 520.7201086957 0.0000000000
+@ sel view 0
+ 1.462037 -2.401034 -0.362602 0.783562 0.065875 2.723176
+ -2.298364 -1.504889 0.697731 640.993890 572.104912 -2107.453902 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 45] 3 94 -1 (0.4456052377 0.0000000000) (72.4278912891 12.6481502307 0.0000000000)
+!Arête:F6(EXTRUSION_1):BIELLE_M2_V3_2
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 4 0.832000 832 0 0 832 1920 0 0 1080 13
+< 4 1.084000 1084 0 0 999 1920 0 0 1080 13
+< 4 1.087000 1087 0 0 999 1920 0 0 1080 13
+< 4 1.087000 1087 0 0 1002 1920 0 0 1080 13
+< 4 1.087000 1087 0 0 1005 1920 0 0 1080 13
+< 4 1.066000 1066 0 0 1005 1920 0 0 1080 13
+< 4 0.982519 1692 0 0 829 1920 0 0 1080 13
+< 4 0.994370 1702 0 0 839 1920 0 0 1080 13
+< 4 0.994370 1532 0 0 839 1920 0 0 1080 13
+~ Resize `main_dlg_w4` `main_dlg_w4` 0
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 4 0.994370 1576 0 0 839 1920 0 0 1080 13
+< 4 0.994370 1583 0 0 839 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 4 0.988444 1583 0 0 834 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 559 415 0 1 1583 834 1920 1080 186003
+~ Move `main_dlg_cur` `proe_win` 9 559 414 0 1025 1583 834 1920 1080 186010
+~ Move `main_dlg_cur` `proe_win` 9 560 414 0 513 1583 834 1920 1080 186019
+~ Move `main_dlg_cur` `proe_win` 9 561 414 0 513 1583 834 1920 1080 186045
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 561 414 0 0 1583 834 1920 1080 186047
+@sel_pz_xyz 264.7819244604 423.8983812950 264.7819244604 423.8983812950 0.0000000000
+@ sel view 0
+ 5.518785 0.000000 0.000000 0.000000 5.518785 0.000000
+ 0.000000 0.000000 5.518785 159.228778 412.216845 -1632.557515 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w4:PHTLeft.AssyTree:<NULL>`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 667 365 0 1 1583 834 1920 1080 186544
+~ Move `main_dlg_cur` `proe_win` 9 668 365 0 513 1583 834 1920 1080 186579
+~ Move `main_dlg_cur` `proe_win` 9 669 365 0 513 1583 834 1920 1080 186597
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 669 365 0 0 1583 834 1920 1080 186615
+@sel_pz_xyz 374.0445143885 474.4829136691 374.0445143885 474.4829136691 0.0000000000
+@ sel view 0
+ 5.518785 0.000000 0.000000 0.000000 5.518785 0.000000
+ 0.000000 0.000000 5.518785 159.228778 412.216845 -1632.557515 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 97 -1 (38.9244638996 11.2825689253) (38.9244638996 11.2825689253 3.0000000000)
+!Surf::F6(EXTRUSION_1)
+~ Command `ProCmdViewNormal@PopupMenuGraphicWinStack` 
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNmdTool`  1
+!ODUI external UI session start for device : nmd_1 
+!%CPSélectionner la ou les références pour l'analyse de la mesure Résumé
+!%CIAnalyse de mesure avancée terminée.
+!%CDAire = 1826.86 mm^2
+!%CDPérimètre = 366.019 mm
+!%CDPérimètre externe = 306.329 mm
+~ Wheel `main_dlg_cur` `proe_win` 9 396 432 458752 0 1583 834 1920 1080 196705
+~ Wheel `main_dlg_cur` `proe_win` 9 396 432 458752 0 1583 834 1920 1080 196712
+~ Wheel `main_dlg_cur` `proe_win` 9 396 432 458752 0 1583 834 1920 1080 196721
+~ Wheel `main_dlg_cur` `proe_win` 9 396 434 458752 0 1583 834 1920 1080 196769
+~ Activate `main_dlg_cur` `page_Model_control_btn` 1
+~ Command `ProCmdDatumSketCurve` 
+!%CIL'utilisation de l'outil courant est interrompue. Sélectionner des objets ou reprendre pour sortir du mode Pause.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!%CPSélectionner un plan ou une surface définissant le plan d'esquisse.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 711 387 0 1 1583 834 1920 1080 200373
+~ Move `main_dlg_cur` `proe_win` 9 711 386 0 1025 1583 834 1920 1080 200386
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 711 386 0 0 1583 834 1920 1080 200396
+@sel_pz_xyz 418.5589028777 452.2257194245 230.4087230216 425.1399280576 0.0000000000
+@ sel view 0
+ 5.518785 0.000000 0.000000 0.000000 5.518785 0.000000
+ 0.000000 0.000000 5.518785 159.228778 412.216845 -1632.557515 2.441406 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack idx 0
+@SEL_REC 0 [ ] 2 97 -1 (12.8977571223 2.3416538107) (12.8977571223 2.3416538107 3.0000000000)
+!Surf::F6(EXTRUSION_1)
+!%CPSélectionner une référence (surface, plan ou arête) d'orientation de la vue.
+~ Activate `Odui_Dlg_01` `stdbtn_1`
+!sket_eps      0.5457434866
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Command `ProCmdSketGeomPoint`  1
+!%CPSélectionner la position du point.
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ Enter `main_dlg_cur` `proe_win` 9 244 17 0 1536 1583 834 1920 1080 202846
+~ Move `main_dlg_cur` `proe_win` 9 244 17 0 0 1583 834 1920 1080 202846
+>M rb_append_tb_cnd_CB ProeWin4 287 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 288 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 288 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 288 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 288 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 288 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 407 417 0 1 1583 834 1920 1080 203827
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 407 417 0 0 1583 834 1920 1080 203879
+0.104435 0.412294 N 0 0.988444444 4
+~ Move `main_dlg_cur` `proe_win` 9 407 416 0 1024 1583 834 1920 1080 203905
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 2 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 2 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 2 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 2 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 286 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 286 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 345 451 393216 512 1583 834 1920 1080 204145
+!sket_eps      0.6821793583
+~ Wheel `main_dlg_cur` `proe_win` 9 335 449 393216 1536 1583 834 1920 1080 204171
+!sket_eps      0.8527241979
+~ Wheel `main_dlg_cur` `proe_win` 9 333 446 393216 1536 1583 834 1920 1080 204197
+!sket_eps       1.065905247
+~ Wheel `main_dlg_cur` `proe_win` 9 329 438 393216 1536 1583 834 1920 1080 204223
+!sket_eps       1.332381559
+>M rb_append_tb_cnd_CB ProeWin4 281 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 281 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin4 287 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 2 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 290 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 294 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 306 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 315 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 323 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 333 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 342 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 347 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 350 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 355 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 356 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 358 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin4 422 831 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 111 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 831 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 430 831 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 1175 420 458752 512 1583 834 1920 1080 204792
+!sket_eps       1.065905247
+~ Wheel `main_dlg_cur` `proe_win` 9 1183 424 458752 512 1583 834 1920 1080 204838
+!sket_eps      0.8527241979
+~ Wheel `main_dlg_cur` `proe_win` 9 1184 424 458752 512 1583 834 1920 1080 204866
+!sket_eps      0.6821793583
+~ Wheel `main_dlg_cur` `proe_win` 9 1184 425 458752 1024 1583 834 1920 1080 204892
+!sket_eps      0.5457434866
+~ Wheel `main_dlg_cur` `proe_win` 9 1187 427 458752 1536 1583 834 1920 1080 204918
+!sket_eps      0.4365947893
+>M rb_append_tb_cnd_CB ProeWin4 432 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 431 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 431 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 431 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 431 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin4 430 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 430 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_loop_touch_tt_ch ProeWin4 1075 463 c0 0 1583 0 0 834 1920 0 0 1080 13
+@SELECT_3D_GEOM 4 0 0 3 110 -1 0.4285714286 0.0000000000 133.412248 -0.778823 3.000000
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1075 463 0 1 1583 834 1920 1080 205974
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1075 463 0 0 1583 834 1920 1080 206014
+0.896157 0.409433 N 0 0.988444444 4
+~ Move `main_dlg_cur` `proe_win` 9 1076 463 0 512 1583 834 1920 1080 206040
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 30 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 30 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 30 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 30 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 430 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 1146 479 393216 1536 1583 834 1920 1080 206303
+!sket_eps      0.5457434866
+>M rb_append_tb_cnd_CB ProeWin4 434 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 434 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 434 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 434 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 435 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Close `nmd_1` `nmd_1`
+!%CPConfirmer pour sortir.
+! Message Dialog: Warning
+!               : Voulez-vous quitter l'esquisse ?
+!               : Les modifications apportées dans l'esquisse ne seront pas enregistrées.
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+!%CILe mode Pause a été désactivé.
+!ODUI external UI session stop. 
+~ Wheel `main_dlg_cur` `proe_win` 9 757 385 393216 0 1583 834 1920 1080 208997
+~ Wheel `main_dlg_cur` `proe_win` 9 757 384 393216 0 1583 834 1920 1080 209044
+~ Wheel `main_dlg_cur` `proe_win` 9 759 383 393216 1536 1583 834 1920 1080 209055
+~ Wheel `main_dlg_cur` `proe_win` 9 760 381 393216 1536 1583 834 1920 1080 209074
+~ Wheel `main_dlg_cur` `proe_win` 9 762 379 393216 1536 1583 834 1920 1080 209098
+~ Wheel `main_dlg_cur` `proe_win` 9 763 376 393216 1536 1583 834 1920 1080 209121
+~ Wheel `main_dlg_cur` `proe_win` 9 765 374 393216 0 1583 834 1920 1080 209191
+~ Wheel `main_dlg_cur` `proe_win` 9 720 373 458752 0 1583 834 1920 1080 209567
+~ Wheel `main_dlg_cur` `proe_win` 9 718 373 458752 0 1583 834 1920 1080 209628
+~ Command `ProCmdDatumSketCurve` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!sket_eps       1.665476949
+!Command ProCmdSketSetup was pushed from the software.
+!Command ProCmdSketQuit was pushed from the software.
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Wheel `main_dlg_cur` `proe_win` 9 277 461 458752 0 1583 834 1920 1080 210967
+~ Wheel `main_dlg_cur` `proe_win` 9 277 462 458752 0 1583 834 1920 1080 210984
+~ Wheel `main_dlg_cur` `proe_win` 9 277 462 458752 0 1583 834 1920 1080 211001
+~ Wheel `main_dlg_cur` `proe_win` 9 277 462 458752 0 1583 834 1920 1080 211027
+~ Wheel `main_dlg_cur` `proe_win` 9 277 462 458752 0 1583 834 1920 1080 211054
+~ Wheel `main_dlg_cur` `proe_win` 9 277 462 458752 0 1583 834 1920 1080 211080
+~ Command `ProCmdSketGeomPoint`  1
+!%CPSélectionner la position du point.
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ Enter `main_dlg_cur` `proe_win` 9 186 11 0 1536 1583 834 1920 1080 212445
+~ Move `main_dlg_cur` `proe_win` 9 186 11 0 0 1583 834 1920 1080 212445
+!sket_eps      0.4365947893
+>M rb_append_tb_cnd_CB ProeWin4 288 829 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 829 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 289 829 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 289 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 289 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 289 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 831 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 831 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 288 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 234 250 0 1 1583 834 1920 1080 212953
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 234 250 0 0 1583 834 1920 1080 213006
+0.103022 0.414803 N 0 0.988444444 4
+~ Move `main_dlg_cur` `proe_win` 9 232 250 0 512 1583 834 1920 1080 213049
+>M rb_append_tb_cnd_CB ProeWin4 287 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin4 287 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 286 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 286 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 286 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 197 363 393216 0 1583 834 1920 1080 213276
+!sket_eps      0.5457434866
+~ Wheel `main_dlg_cur` `proe_win` 9 198 366 393216 0 1583 834 1920 1080 213298
+~ Wheel `main_dlg_cur` `proe_win` 9 198 366 393216 0 1583 834 1920 1080 213302
+!sket_eps      0.8527241979
+~ Wheel `main_dlg_cur` `proe_win` 9 199 367 393216 0 1583 834 1920 1080 213316
+~ Wheel `main_dlg_cur` `proe_win` 9 199 367 393216 0 1583 834 1920 1080 213329
+!sket_eps       1.332381559
+~ Wheel `main_dlg_cur` `proe_win` 9 200 364 393216 0 1583 834 1920 1080 213350
+!sket_eps       1.665476949
+~ Wheel `main_dlg_cur` `proe_win` 9 201 357 393216 0 1583 834 1920 1080 213377
+!sket_eps       2.081846186
+>M rb_append_tb_cnd_CB ProeWin4 286 838 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 286 838 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 838 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 287 838 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 288 838 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 290 839 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 292 840 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 112 3 0
+>M rb_append_tb_cnd_CB ProeWin4 295 841 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 181 55 0
+>M rb_append_tb_cnd_CB ProeWin4 297 841 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 302 842 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 4 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 308 843 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 169 3 0
+>M rb_append_tb_cnd_CB ProeWin4 312 844 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 678 379 458752 0 1583 834 1920 1080 213788
+!sket_eps       1.665476949
+~ Wheel `main_dlg_cur` `proe_win` 9 690 379 458752 0 1583 834 1920 1080 213823
+!sket_eps       1.332381559
+~ Wheel `main_dlg_cur` `proe_win` 9 694 379 458752 0 1583 834 1920 1080 213832
+!sket_eps       1.065905247
+~ Wheel `main_dlg_cur` `proe_win` 9 697 379 458752 0 1583 834 1920 1080 213849
+!sket_eps      0.8527241979
+~ Wheel `main_dlg_cur` `proe_win` 9 700 379 458752 0 1583 834 1920 1080 213858
+!sket_eps      0.6821793583
+~ Wheel `main_dlg_cur` `proe_win` 9 702 379 458752 0 1583 834 1920 1080 213867
+!sket_eps      0.5457434866
+~ Wheel `main_dlg_cur` `proe_win` 9 708 378 458752 0 1583 834 1920 1080 213893
+!sket_eps      0.4365947893
+>M rb_append_tb_cnd_CB ProeWin4 428 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 428 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 428 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 428 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 428 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 428 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 428 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_loop_touch_tt_ch ProeWin4 762 197 c0 0 1583 0 0 834 1920 0 0 1080 13
+@TOUCH 7 4 1 1.329835 1.000000 -1 -1 -1 1017
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 771 199 0 1 1583 834 1920 1080 215036
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 771 199 0 0 1583 834 1920 1080 215097
+0.896120 0.412316 N 0 0.988444444 4
+~ Move `main_dlg_cur` `proe_win` 9 772 200 0 1536 1583 834 1920 1080 215131
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 5 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 5 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 22 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 22 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 22 4 7 0
+>M rb_append_tb_cnd_CB ProeWin4 429 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 429 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 782 341 393216 0 1583 834 1920 1080 215376
+~ Wheel `main_dlg_cur` `proe_win` 9 782 341 393216 0 1583 834 1920 1080 215385
+~ Wheel `main_dlg_cur` `proe_win` 9 782 341 393216 0 1583 834 1920 1080 215393
+!sket_eps      0.8527241979
+~ Wheel `main_dlg_cur` `proe_win` 9 782 340 393216 0 1583 834 1920 1080 215433
+!sket_eps       1.065905247
+~ Wheel `main_dlg_cur` `proe_win` 9 791 325 393216 0 1583 834 1920 1080 215687
+~ Wheel `main_dlg_cur` `proe_win` 9 791 325 393216 0 1583 834 1920 1080 215709
+~ Wheel `main_dlg_cur` `proe_win` 9 791 325 393216 0 1583 834 1920 1080 215717
+~ Wheel `main_dlg_cur` `proe_win` 9 791 325 393216 0 1583 834 1920 1080 215744
+!sket_eps       2.602307733
+!%CELa section n'est plus géométriquement stable. Essayez de définir un autre jeu de cotes et de restrictions.
+~ Wheel `main_dlg_cur` `proe_win` 9 791 324 393216 0 1583 834 1920 1080 215770
+!sket_eps       3.252884666
+>M rb_append_tb_cnd_CB ProeWin4 431 839 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 432 838 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 110 3 0
+>M rb_append_tb_cnd_CB ProeWin4 432 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 5 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 432 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 5 3 7 0
+>M rb_append_tb_cnd_CB ProeWin4 432 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Command `ProCmdSketDimension`  1
+~ Wheel `main_dlg_cur` `proe_win` 9 423 351 458752 0 1583 834 1920 1080 216873
+~ Wheel `main_dlg_cur` `proe_win` 9 429 346 458752 1536 1583 834 1920 1080 216899
+~ Wheel `main_dlg_cur` `proe_win` 9 433 343 458752 0 1583 834 1920 1080 216925
+~ Wheel `main_dlg_cur` `proe_win` 9 433 342 458752 0 1583 834 1920 1080 216934
+~ Wheel `main_dlg_cur` `proe_win` 9 434 340 458752 0 1583 834 1920 1080 216951
+~ Wheel `main_dlg_cur` `proe_win` 9 437 338 458752 0 1583 834 1920 1080 216970
+~ LButtonArm `main_dlg_cur` `proe_win` 9 567 226 0 1 1583 834 1920 1080 217608
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 567 226 0 0 1583 834 1920 1080 217653
+@sel_pz_xyz 272.8754496403 615.1079136691 103.9010212455 405.6953615389 0.0000000000
+@ sel view 0
+ 5.518785 0.000000 0.000000 0.000000 5.518785 0.000000
+ 0.000000 0.000000 5.518785 159.228778 412.216845 -1632.557515 1.562500 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 CIRCLE 
+0 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 4 4 (0.5186734340 1.0000000000) (103.9010212455 405.6953615389 0.0000000000)
+!Cercle (Référence)
+~ Wheel `main_dlg_cur` `proe_win` 9 527 298 393216 0 1583 834 1920 1080 218299
+~ Wheel `main_dlg_cur` `proe_win` 9 528 298 393216 0 1583 834 1920 1080 218334
+~ Wheel `main_dlg_cur` `proe_win` 9 528 298 393216 0 1583 834 1920 1080 218378
+~ LButtonArm `main_dlg_cur` `proe_win` 9 533 311 0 1 1583 834 1920 1080 218606
+~ Move `main_dlg_cur` `proe_win` 9 531 312 0 1537 1583 834 1920 1080 218614
+~ Move `main_dlg_cur` `proe_win` 9 531 313 0 1025 1583 834 1920 1080 218623
+~ Move `main_dlg_cur` `proe_win` 9 530 314 0 1537 1583 834 1920 1080 218632
+~ Move `main_dlg_cur` `proe_win` 9 530 315 0 1025 1583 834 1920 1080 218641
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 530 315 0 0 1583 834 1920 1080 218677
+@sel_pz_xyz 238.4779676259 529.1142086331 85.1341597347 342.6366834813 0.0000000000
+@ sel view 0
+ 5.518785 0.000000 0.000000 0.000000 5.518785 0.000000
+ 0.000000 0.000000 5.518785 159.228778 412.216845 -1632.557515 0.800000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+~ Key `main_dlg_cur` `proe_win` 9 528 309 65536 512 1583 834 1920 1080 219559 `Echap`
+~ Activate `main_dlg_cur` `ProSelEsc_1_0`
+~ Wheel `main_dlg_cur` `proe_win` 9 543 250 458752 0 1583 834 1920 1080 219891
+~ Wheel `main_dlg_cur` `proe_win` 9 545 250 458752 0 1583 834 1920 1080 219914
+~ Wheel `main_dlg_cur` `proe_win` 9 545 250 458752 0 1583 834 1920 1080 219922
+~ Wheel `main_dlg_cur` `proe_win` 9 546 250 458752 0 1583 834 1920 1080 219942
+~ Wheel `main_dlg_cur` `proe_win` 9 547 250 458752 0 1583 834 1920 1080 219952
+~ Wheel `main_dlg_cur` `proe_win` 9 547 250 458752 0 1583 834 1920 1080 219961
+~ Wheel `main_dlg_cur` `proe_win` 9 547 250 458752 0 1583 834 1920 1080 219970
+~ Command `ProCmdSketDimension`  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 560 279 0 1 1583 834 1920 1080 223060
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 560 279 0 0 1583 834 1920 1080 223113
+@sel_pz_xyz 265.7936151079 561.4883093525 104.4168539793 412.0870449921 0.0000000000
+@ sel view 0
+ 5.518785 0.000000 0.000000 0.000000 5.518785 0.000000
+ 0.000000 0.000000 5.518785 159.228778 412.216845 -1632.557515 3.814697 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 CIRCLE 
+0 4
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 LINE 
+5 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 2 (0.0000000000 1.0000000000) (104.4168539793 412.0870449921 0.0000000000)
+!Point
+~ Wheel `main_dlg_cur` `proe_win` 9 533 396 393216 0 1583 834 1920 1080 223392
+~ Wheel `main_dlg_cur` `proe_win` 9 530 396 393216 512 1583 834 1920 1080 223401
+~ Wheel `main_dlg_cur` `proe_win` 9 528 392 393216 0 1583 834 1920 1080 223410
+~ Wheel `main_dlg_cur` `proe_win` 9 526 380 393216 0 1583 834 1920 1080 223427
+~ Wheel `main_dlg_cur` `proe_win` 9 526 375 393216 0 1583 834 1920 1080 223453
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1520 352 0 1 1583 834 1920 1080 225072
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1520 352 0 0 1583 834 1920 1080 225116
+@sel_pz_xyz 1237.0166366906 487.6348920863 898.8933431879 410.7835342008 0.0000000000
+@ sel view 0
+ 5.518785 0.000000 0.000000 0.000000 5.518785 0.000000
+ 0.000000 0.000000 5.518785 159.228778 412.216845 -1632.557515 1.250000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 ARC 
+2 4
+@ sel2d 0 LINE 
+5 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 5 (0.0000000000 1.0000000000) (898.8933431879 410.7835342008 0.0000000000)
+!Point
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1223 492 0 2 1583 834 1920 1080 225571
+~ Move `main_dlg_cur` `proe_win` 9 1222 492 0 514 1583 834 1920 1080 225597
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1222 492 0 0 1583 834 1920 1080 225650
+** 0.935533 0.408873 4 4 4
+0.657706 0.296665 M 0 0.988444444 4
+@ dimtype
+ 8
+!%CPLes restrictions 2 et les cotes  1 en surbrillance sont conflictuelles. Sélectionnez-en une à supprimer ou convertir.
+~ Close `resolve_dim_dg` `resolve_dim_dg`
+!%CELa régénération a été annulée par l'utilisateur.
+!%CIImpossible d'ajouter la cote sélectionnée.
+~ Command `ProCmdSketQuit` 
+!%CPConfirmer pour sortir.
+! Message Dialog: Warning
+!               : Voulez-vous quitter l'esquisse ?
+!               : Les modifications apportées dans l'esquisse ne seront pas enregistrées.
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 4 0.988444 1702 0 0 834 1920 0 0 1080 13
+< 4 0.988444 1532 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1576 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1583 0 0 834 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 3 0.988444 1576 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1583 0 0 834 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Command `ProCmdDatumPointGeneral` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Point de référence
+!ODUI session started.
+!%CPSélectionner jusqu'à 3 références (surface, courbe, arête ou point) de placement du point.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w3:PHTLeft.AssyTree:<NULL>`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 618 544 0 1 1583 834 1920 1080 252620
+~ Move `main_dlg_cur` `proe_win` 9 619 542 0 1537 1583 834 1920 1080 252621
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 619 542 0 0 1583 834 1920 1080 252646
+@sel_pz_xyz 324.4716726619 293.3902877698 163.0434790504 391.5083527770 0.0000000000
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 66 -1 (6.7104662246 3.0861276656) (6.7104662246 3.0861276656 3.0000000000)
+!Surf::F6(EXTRUSION_1)
+!%CPSélectionner jusqu'à 3 références (surface, courbe, arête ou point) de placement du point.
+~ Trigger `Odui_Dlg_00` `t1.RefsTable` 2 `0` `c1`
+~ Trigger `Odui_Dlg_00` `t1.RefsTable` 2 `` ``
+~ Close `Odui_Dlg_00` `Odui_Dlg_00`
+! Message Dialog: Warning
+!               : Voulez-vous vraiment annuler ?
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+~ Command `ProCmdDatumSketCurve` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Esquisser
+!ODUI session started.
+!%CPSélectionner un plan ou une surface définissant le plan d'esquisse.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1141 481 0 1 1583 834 1920 1080 257586
+~ Move `main_dlg_cur` `proe_win` 9 1141 481 0 1 1583 834 1920 1080 257607
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1141 481 0 0 1583 834 1920 1080 257608
+@sel_pz_xyz 853.5858812950 357.1267985612 692.1576876835 455.2448635683 0.0000000000
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack idx 0
+@SEL_REC 0 [ ] 2 66 -1 (98.2410306079 14.1117979451) (98.2410306079 14.1117979451 3.0000000000)
+!Surf::F6(EXTRUSION_1)
+!%CPSélectionner une référence (surface, plan ou arête) d'orientation de la vue.
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!sket_eps       1.272004892
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Command `ProCmdSketGeomPoint`  1
+!%CPSélectionner la position du point.
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ Enter `main_dlg_cur` `proe_win` 9 252 12 0 1536 1583 834 1920 1080 259514
+~ Move `main_dlg_cur` `proe_win` 9 252 12 0 0 1583 834 1920 1080 259514
+>M rb_append_tb_cnd_CB ProeWin3 297 797 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 298 799 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 299 802 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin3 302 828 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 71 3 0
+>M rb_append_tb_cnd_CB ProeWin3 302 829 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 71 3 0
+>M rb_append_tb_cnd_CB ProeWin3 303 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin3 303 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 303 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 303 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 302 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 302 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 302 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 302 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 302 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 302 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 302 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 301 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 301 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 301 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 301 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 300 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 300 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 300 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 299 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 299 837 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 299 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 298 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 298 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 297 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 297 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 297 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 297 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 297 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 296 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 295 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 295 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 295 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 295 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 295 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 295 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 295 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 294 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 294 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 294 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 294 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 294 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_loop_touch_tt_ch ProeWin3 559 558 c0 0 1583 0 0 834 1920 0 0 1080 13
+@TOUCH 7 4 1 -0.036152 1.000000 -1 -1 -1 1013
+~ LButtonArm `main_dlg_cur` `proe_win` 9 559 558 0 1 1583 834 1920 1080 260785
+>M rb_append_tb_cnd_CB ProeWin3 294 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 559 558 0 0 1583 834 1920 1080 260844
+0.103354 0.376333 N 0 0.988444444 3
+~ Move `main_dlg_cur` `proe_win` 9 568 555 0 1536 1583 834 1920 1080 260887
+>M rb_append_tb_cnd_CB ProeWin3 295 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 297 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 298 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 0 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 301 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin3 310 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 315 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 318 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 -1 73 3 0
+>M rb_append_tb_cnd_CB ProeWin3 321 830 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin3 346 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 352 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 357 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 363 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 366 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 369 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 371 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 373 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 375 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 376 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 380 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 383 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 384 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 388 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 391 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 396 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 401 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 406 836 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin3 418 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 420 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 420 835 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 421 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 422 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 422 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 423 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 423 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 424 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 425 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 425 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 426 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 427 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 427 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 428 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 428 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 428 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 428 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 428 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 428 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 429 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 429 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 429 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 429 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 429 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 429 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_loop_touch_tt_ch ProeWin3 1343 557 c0 0 1583 0 0 834 1920 0 0 1080 13
+@TOUCH 7 4 1 1.335932 1.000000 -1 -1 -1 1013
+>M rb_append_tb_cnd_CB ProeWin3 430 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+>M rb_append_tb_cnd_CB ProeWin3 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1345 559 0 1 1583 834 1920 1080 261851
+>M rb_append_tb_cnd_CB ProeWin3 430 834 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 1 4 7 0
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CILorsqu'une restriction est active, cliquez sur le bouton droit pour basculer entre verrouiller/désactiver/activer. Utilisez Tab pour basculer la restriction active. Appuyez et maintenez enfoncée Maj pour désactiver l'aimantation aux nouvelles
+!%C_restrictions.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1345 559 0 0 1583 834 1920 1080 261922
+0.898543 0.375321 N 0 0.988444444 3
+~ Move `main_dlg_cur` `proe_win` 9 1347 558 0 1536 1583 834 1920 1080 261964
+>M rb_append_tb_cnd_CB ProeWin3 430 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 18 3 7 0
+>M rb_append_tb_cnd_CB ProeWin3 430 833 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB 0 18 3 7 0
+>M rb_append_tb_cnd_CB ProeWin3 431 832 c0 0 1583 0 0 834 1920 0 0 1080 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+!%CELa section n'est plus géométriquement stable. Essayez de définir un autre jeu de cotes et de restrictions.
+~ Command `ProCmdSketDimension`  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 558 555 0 1 1583 834 1920 1080 263846
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 558 555 0 0 1583 834 1920 1080 263908
+@sel_pz_xyz 263.7702338129 282.2616906475 102.3420402014 380.3797556547 0.0000000000
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 POINT 
+1 3
+@ sel2d 0 ARC 
+0 4
+@ sel2d 0 LINE 
+5 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 2 (0.0000000000 1.0000000000) (102.3420402014 380.3797556547 0.0000000000)
+!Point
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1341 564 0 1 1583 834 1920 1080 265202
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1341 564 0 0 1583 834 1920 1080 265246
+@sel_pz_xyz 1055.9240107914 273.1564748201 894.4958171799 371.2745398273 0.0000000000
+@ sel view 0
+ 5.780738 0.000000 0.000000 -0.000000 5.780738 0.000000
+ 0.000000 0.000000 5.780738 124.252032 373.668257 -1635.502748 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 POINT 
+3 3
+@ sel2d 0 ARC 
+2 4
+@ sel2d 0 LINE 
+5 4
+@ stack idx 0
+@SEL_REC 0 [ ] 7 3 18 (0.0000000000 1.0000000000) (894.4958171799 371.2745398273 0.0000000000)
+!Point
+~ MButtonArm `main_dlg_cur` `proe_win` 9 893 669 0 2 1583 834 1920 1080 265595
+~ Move `main_dlg_cur` `proe_win` 9 892 669 0 514 1583 834 1920 1080 265692
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 892 669 0 0 1583 834 1920 1080 265700
+** 0.601675 0.196643 3 4 4
+0.440247 0.264035 M 0 0.988444444 3
+@ dimtype
+ 8
+!%CPLes restrictions 2 et les cotes  1 en surbrillance sont conflictuelles. Sélectionnez-en une à supprimer ou convertir.
+~ Close `resolve_dim_dg` `resolve_dim_dg`
+!%CELa régénération a été annulée par l'utilisateur.
+!%CIImpossible d'ajouter la cote sélectionnée.
+~ Command `ProCmdSketDone` 
+!ODUI session finished.
+!F7(ESQUISSE_2)
+!Undo: added rec_id 71 type 5304 
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 3 0.988444 1702 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1532 0 0 834 1920 0 0 1080 13
+< 2 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 2 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 0 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` 9 795 632 458752 1536 1498 828 1920 1080 323087
+~ Wheel `main_dlg_cur` `proe_win` 9 798 631 458752 1536 1498 828 1920 1080 323130
+~ Wheel `main_dlg_cur` `proe_win` 9 800 629 458752 1536 1498 828 1920 1080 323149
+~ Wheel `main_dlg_cur` `proe_win` 9 802 622 458752 1024 1498 828 1920 1080 323192
+~ MButtonArm `main_dlg_cur` `proe_win` 9 789 426 0 1538 1498 828 1920 1080 323659
+~ Move `main_dlg_cur` `proe_win` 9 790 426 0 514 1498 828 1920 1080 323683
+~ Move `main_dlg_cur` `proe_win` 9 792 426 0 514 1498 828 1920 1080 323691
+~ Move `main_dlg_cur` `proe_win` 9 794 426 0 514 1498 828 1920 1080 323700
+~ Move `main_dlg_cur` `proe_win` 9 796 426 0 514 1498 828 1920 1080 323708
+~ Move `main_dlg_cur` `proe_win` 9 798 426 0 514 1498 828 1920 1080 323725
+~ Move `main_dlg_cur` `proe_win` 9 805 426 0 514 1498 828 1920 1080 323738
+~ Move `main_dlg_cur` `proe_win` 9 806 426 0 514 1498 828 1920 1080 323746
+~ Move `main_dlg_cur` `proe_win` 9 809 426 0 514 1498 828 1920 1080 323755
+~ Move `main_dlg_cur` `proe_win` 9 812 426 0 514 1498 828 1920 1080 323764
+~ Move `main_dlg_cur` `proe_win` 9 814 426 0 514 1498 828 1920 1080 323772
+~ Move `main_dlg_cur` `proe_win` 9 817 426 0 514 1498 828 1920 1080 323782
+~ Move `main_dlg_cur` `proe_win` 9 820 426 0 514 1498 828 1920 1080 323789
+~ Move `main_dlg_cur` `proe_win` 9 823 426 0 514 1498 828 1920 1080 323799
+~ Move `main_dlg_cur` `proe_win` 9 825 426 0 514 1498 828 1920 1080 323807
+~ Move `main_dlg_cur` `proe_win` 9 828 426 0 514 1498 828 1920 1080 323817
+~ Move `main_dlg_cur` `proe_win` 9 829 425 0 1538 1498 828 1920 1080 323825
+~ Move `main_dlg_cur` `proe_win` 9 831 425 0 514 1498 828 1920 1080 323834
+~ Move `main_dlg_cur` `proe_win` 9 832 424 0 1538 1498 828 1920 1080 323843
+~ Move `main_dlg_cur` `proe_win` 9 833 424 0 514 1498 828 1920 1080 323851
+~ Move `main_dlg_cur` `proe_win` 9 834 424 0 514 1498 828 1920 1080 323860
+~ Move `main_dlg_cur` `proe_win` 9 835 424 0 514 1498 828 1920 1080 323868
+~ Move `main_dlg_cur` `proe_win` 9 837 424 0 514 1498 828 1920 1080 323883
+~ Move `main_dlg_cur` `proe_win` 9 839 424 0 514 1498 828 1920 1080 323892
+~ Move `main_dlg_cur` `proe_win` 9 840 424 0 514 1498 828 1920 1080 323910
+~ Move `main_dlg_cur` `proe_win` 9 841 424 0 514 1498 828 1920 1080 323921
+~ Move `main_dlg_cur` `proe_win` 9 842 424 0 514 1498 828 1920 1080 323936
+~ Move `main_dlg_cur` `proe_win` 9 843 424 0 514 1498 828 1920 1080 323945
+~ Move `main_dlg_cur` `proe_win` 9 844 424 0 514 1498 828 1920 1080 323954
+~ Move `main_dlg_cur` `proe_win` 9 845 424 0 514 1498 828 1920 1080 323980
+~ Move `main_dlg_cur` `proe_win` 9 846 424 0 514 1498 828 1920 1080 323990
+~ Move `main_dlg_cur` `proe_win` 9 847 424 0 514 1498 828 1920 1080 324006
+~ Move `main_dlg_cur` `proe_win` 9 848 424 0 514 1498 828 1920 1080 324024
+~ Move `main_dlg_cur` `proe_win` 9 849 424 0 514 1498 828 1920 1080 324041
+~ Move `main_dlg_cur` `proe_win` 9 849 425 0 1026 1498 828 1920 1080 324112
+~ Move `main_dlg_cur` `proe_win` 9 850 425 0 514 1498 828 1920 1080 324138
+~ Move `main_dlg_cur` `proe_win` 9 851 426 0 1538 1498 828 1920 1080 324156
+~ Move `main_dlg_cur` `proe_win` 9 851 427 0 1026 1498 828 1920 1080 324181
+~ Move `main_dlg_cur` `proe_win` 9 851 428 0 1026 1498 828 1920 1080 324207
+~ Move `main_dlg_cur` `proe_win` 9 851 429 0 1026 1498 828 1920 1080 324215
+~ Move `main_dlg_cur` `proe_win` 9 851 430 0 1026 1498 828 1920 1080 324235
+~ Move `main_dlg_cur` `proe_win` 9 850 431 0 1538 1498 828 1920 1080 324259
+~ Move `main_dlg_cur` `proe_win` 9 850 432 0 1026 1498 828 1920 1080 324271
+~ Move `main_dlg_cur` `proe_win` 9 850 433 0 1026 1498 828 1920 1080 324295
+~ Move `main_dlg_cur` `proe_win` 9 849 433 0 514 1498 828 1920 1080 324304
+~ Move `main_dlg_cur` `proe_win` 9 848 434 0 1538 1498 828 1920 1080 324321
+~ Move `main_dlg_cur` `proe_win` 9 847 435 0 1538 1498 828 1920 1080 324339
+~ Move `main_dlg_cur` `proe_win` 9 846 435 0 514 1498 828 1920 1080 324417
+~ Move `main_dlg_cur` `proe_win` 9 845 435 0 514 1498 828 1920 1080 324444
+~ Move `main_dlg_cur` `proe_win` 9 844 435 0 514 1498 828 1920 1080 324487
+~ Move `main_dlg_cur` `proe_win` 9 843 435 0 514 1498 828 1920 1080 324522
+~ Move `main_dlg_cur` `proe_win` 9 842 435 0 514 1498 828 1920 1080 324558
+~ Move `main_dlg_cur` `proe_win` 9 841 435 0 514 1498 828 1920 1080 324575
+~ Move `main_dlg_cur` `proe_win` 9 840 435 0 514 1498 828 1920 1080 324594
+~ Move `main_dlg_cur` `proe_win` 9 839 435 0 514 1498 828 1920 1080 324618
+~ Move `main_dlg_cur` `proe_win` 9 838 435 0 514 1498 828 1920 1080 324628
+~ Move `main_dlg_cur` `proe_win` 9 837 434 0 1538 1498 828 1920 1080 324637
+~ Move `main_dlg_cur` `proe_win` 9 836 433 0 1538 1498 828 1920 1080 324654
+~ Move `main_dlg_cur` `proe_win` 9 835 433 0 514 1498 828 1920 1080 324662
+~ Move `main_dlg_cur` `proe_win` 9 834 432 0 1538 1498 828 1920 1080 324688
+~ Move `main_dlg_cur` `proe_win` 9 833 432 0 514 1498 828 1920 1080 324697
+~ Move `main_dlg_cur` `proe_win` 9 832 432 0 514 1498 828 1920 1080 324707
+~ Move `main_dlg_cur` `proe_win` 9 832 431 0 1026 1498 828 1920 1080 324724
+~ Move `main_dlg_cur` `proe_win` 9 831 431 0 514 1498 828 1920 1080 324750
+~ Move `main_dlg_cur` `proe_win` 9 830 431 0 514 1498 828 1920 1080 324768
+~ Move `main_dlg_cur` `proe_win` 9 830 430 0 1026 1498 828 1920 1080 324776
+~ Move `main_dlg_cur` `proe_win` 9 829 430 0 514 1498 828 1920 1080 324795
+~ Move `main_dlg_cur` `proe_win` 9 829 429 0 1026 1498 828 1920 1080 324803
+~ Move `main_dlg_cur` `proe_win` 9 828 429 0 514 1498 828 1920 1080 324811
+~ Move `main_dlg_cur` `proe_win` 9 827 429 0 514 1498 828 1920 1080 324820
+~ Move `main_dlg_cur` `proe_win` 9 827 428 0 1026 1498 828 1920 1080 324829
+~ Move `main_dlg_cur` `proe_win` 9 826 428 0 514 1498 828 1920 1080 324838
+~ Move `main_dlg_cur` `proe_win` 9 825 428 0 514 1498 828 1920 1080 324847
+~ Move `main_dlg_cur` `proe_win` 9 825 427 0 1026 1498 828 1920 1080 324855
+~ Move `main_dlg_cur` `proe_win` 9 824 427 0 514 1498 828 1920 1080 324864
+~ Move `main_dlg_cur` `proe_win` 9 824 426 0 1026 1498 828 1920 1080 324881
+~ Move `main_dlg_cur` `proe_win` 9 823 426 0 514 1498 828 1920 1080 324890
+~ Move `main_dlg_cur` `proe_win` 9 822 425 0 1538 1498 828 1920 1080 324899
+~ Move `main_dlg_cur` `proe_win` 9 820 425 0 514 1498 828 1920 1080 324916
+~ Move `main_dlg_cur` `proe_win` 9 820 424 0 1026 1498 828 1920 1080 324925
+~ Move `main_dlg_cur` `proe_win` 9 819 424 0 514 1498 828 1920 1080 324934
+~ Move `main_dlg_cur` `proe_win` 9 819 423 0 1026 1498 828 1920 1080 324951
+~ Move `main_dlg_cur` `proe_win` 9 818 423 0 514 1498 828 1920 1080 324960
+~ Move `main_dlg_cur` `proe_win` 9 817 423 0 514 1498 828 1920 1080 324969
+~ Move `main_dlg_cur` `proe_win` 9 817 422 0 1026 1498 828 1920 1080 324996
+~ Move `main_dlg_cur` `proe_win` 9 816 422 0 514 1498 828 1920 1080 325012
+~ Move `main_dlg_cur` `proe_win` 9 816 421 0 1026 1498 828 1920 1080 325021
+~ Move `main_dlg_cur` `proe_win` 9 815 421 0 514 1498 828 1920 1080 325030
+~ Move `main_dlg_cur` `proe_win` 9 814 420 0 1538 1498 828 1920 1080 325039
+~ Move `main_dlg_cur` `proe_win` 9 813 420 0 514 1498 828 1920 1080 325073
+~ Move `main_dlg_cur` `proe_win` 9 813 419 0 1026 1498 828 1920 1080 325136
+~ Move `main_dlg_cur` `proe_win` 9 813 418 0 1026 1498 828 1920 1080 325199
+~ Move `main_dlg_cur` `proe_win` 9 813 417 0 1026 1498 828 1920 1080 325233
+~ Move `main_dlg_cur` `proe_win` 9 813 416 0 1026 1498 828 1920 1080 325249
+~ Move `main_dlg_cur` `proe_win` 9 813 415 0 1026 1498 828 1920 1080 325258
+~ Move `main_dlg_cur` `proe_win` 9 813 414 0 1026 1498 828 1920 1080 325293
+~ Move `main_dlg_cur` `proe_win` 9 813 413 0 1026 1498 828 1920 1080 325309
+~ Move `main_dlg_cur` `proe_win` 9 813 412 0 1026 1498 828 1920 1080 325372
+~ Move `main_dlg_cur` `proe_win` 9 812 412 0 514 1498 828 1920 1080 325520
+~ Move `main_dlg_cur` `proe_win` 9 810 412 0 514 1498 828 1920 1080 325545
+~ Move `main_dlg_cur` `proe_win` 9 809 412 0 514 1498 828 1920 1080 325552
+~ Move `main_dlg_cur` `proe_win` 9 808 412 0 514 1498 828 1920 1080 325559
+~ Move `main_dlg_cur` `proe_win` 9 807 412 0 514 1498 828 1920 1080 325565
+~ Move `main_dlg_cur` `proe_win` 9 806 412 0 514 1498 828 1920 1080 325574
+~ Move `main_dlg_cur` `proe_win` 9 805 412 0 514 1498 828 1920 1080 325582
+~ Move `main_dlg_cur` `proe_win` 9 803 412 0 514 1498 828 1920 1080 325591
+~ Move `main_dlg_cur` `proe_win` 9 802 412 0 514 1498 828 1920 1080 325599
+~ Move `main_dlg_cur` `proe_win` 9 800 412 0 514 1498 828 1920 1080 325608
+~ Move `main_dlg_cur` `proe_win` 9 799 412 0 514 1498 828 1920 1080 325616
+~ Move `main_dlg_cur` `proe_win` 9 798 412 0 514 1498 828 1920 1080 325625
+~ Move `main_dlg_cur` `proe_win` 9 796 412 0 514 1498 828 1920 1080 325633
+~ Move `main_dlg_cur` `proe_win` 9 795 412 0 514 1498 828 1920 1080 325643
+~ Move `main_dlg_cur` `proe_win` 9 793 413 0 1538 1498 828 1920 1080 325652
+~ Move `main_dlg_cur` `proe_win` 9 791 413 0 514 1498 828 1920 1080 325661
+~ Move `main_dlg_cur` `proe_win` 9 790 413 0 514 1498 828 1920 1080 325677
+~ Move `main_dlg_cur` `proe_win` 9 789 413 0 514 1498 828 1920 1080 325696
+~ Move `main_dlg_cur` `proe_win` 9 788 413 0 514 1498 828 1920 1080 325704
+~ Move `main_dlg_cur` `proe_win` 9 787 413 0 514 1498 828 1920 1080 325721
+~ Move `main_dlg_cur` `proe_win` 9 786 413 0 514 1498 828 1920 1080 325738
+~ Move `main_dlg_cur` `proe_win` 9 785 413 0 514 1498 828 1920 1080 325782
+~ Move `main_dlg_cur` `proe_win` 9 783 413 0 514 1498 828 1920 1080 325791
+~ Move `main_dlg_cur` `proe_win` 9 782 413 0 514 1498 828 1920 1080 325852
+~ Move `main_dlg_cur` `proe_win` 9 782 411 0 1026 1498 828 1920 1080 326001
+~ Move `main_dlg_cur` `proe_win` 9 782 408 0 1026 1498 828 1920 1080 326030
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 782 408 0 0 1498 828 1920 1080 326036
+~ Wheel `main_dlg_cur` `proe_win` 9 797 377 458752 1536 1498 828 1920 1080 326220
+~ Wheel `main_dlg_cur` `proe_win` 9 797 375 458752 1024 1498 828 1920 1080 326265
+~ MButtonArm `main_dlg_cur` `proe_win` 9 805 374 0 514 1498 828 1920 1080 326423
+~ Move `main_dlg_cur` `proe_win` 9 806 375 0 1538 1498 828 1920 1080 326430
+~ Move `main_dlg_cur` `proe_win` 9 808 375 0 514 1498 828 1920 1080 326438
+~ Move `main_dlg_cur` `proe_win` 9 808 376 0 1026 1498 828 1920 1080 326448
+~ Move `main_dlg_cur` `proe_win` 9 809 376 0 514 1498 828 1920 1080 326456
+~ Move `main_dlg_cur` `proe_win` 9 810 377 0 1538 1498 828 1920 1080 326464
+~ Move `main_dlg_cur` `proe_win` 9 811 377 0 514 1498 828 1920 1080 326482
+~ Move `main_dlg_cur` `proe_win` 9 813 379 0 1538 1498 828 1920 1080 326491
+~ Move `main_dlg_cur` `proe_win` 9 816 382 0 1538 1498 828 1920 1080 326516
+~ Move `main_dlg_cur` `proe_win` 9 817 384 0 1538 1498 828 1920 1080 326521
+~ Move `main_dlg_cur` `proe_win` 9 819 386 0 1538 1498 828 1920 1080 326526
+~ Move `main_dlg_cur` `proe_win` 9 820 388 0 1538 1498 828 1920 1080 326535
+~ Move `main_dlg_cur` `proe_win` 9 822 390 0 1538 1498 828 1920 1080 326544
+~ Move `main_dlg_cur` `proe_win` 9 825 394 0 1538 1498 828 1920 1080 326553
+~ Move `main_dlg_cur` `proe_win` 9 826 397 0 1538 1498 828 1920 1080 326561
+~ Move `main_dlg_cur` `proe_win` 9 828 400 0 1538 1498 828 1920 1080 326571
+~ Move `main_dlg_cur` `proe_win` 9 830 402 0 1538 1498 828 1920 1080 326578
+~ Move `main_dlg_cur` `proe_win` 9 831 403 0 1538 1498 828 1920 1080 326588
+~ Move `main_dlg_cur` `proe_win` 9 833 407 0 1538 1498 828 1920 1080 326596
+~ Move `main_dlg_cur` `proe_win` 9 833 408 0 1026 1498 828 1920 1080 326606
+~ Move `main_dlg_cur` `proe_win` 9 834 410 0 1538 1498 828 1920 1080 326614
+~ Move `main_dlg_cur` `proe_win` 9 835 410 0 514 1498 828 1920 1080 326624
+~ Move `main_dlg_cur` `proe_win` 9 835 412 0 1026 1498 828 1920 1080 326633
+~ Move `main_dlg_cur` `proe_win` 9 836 413 0 1538 1498 828 1920 1080 326641
+~ Move `main_dlg_cur` `proe_win` 9 836 414 0 1026 1498 828 1920 1080 326657
+~ Move `main_dlg_cur` `proe_win` 9 837 415 0 1538 1498 828 1920 1080 326667
+~ Move `main_dlg_cur` `proe_win` 9 837 416 0 1026 1498 828 1920 1080 326684
+~ Move `main_dlg_cur` `proe_win` 9 838 416 0 514 1498 828 1920 1080 326702
+~ Move `main_dlg_cur` `proe_win` 9 838 417 0 1026 1498 828 1920 1080 326736
+~ Move `main_dlg_cur` `proe_win` 9 838 418 0 1026 1498 828 1920 1080 326745
+~ Move `main_dlg_cur` `proe_win` 9 839 418 0 514 1498 828 1920 1080 326773
+~ Move `main_dlg_cur` `proe_win` 9 840 419 0 1538 1498 828 1920 1080 326781
+~ Move `main_dlg_cur` `proe_win` 9 840 420 0 1026 1498 828 1920 1080 326789
+~ Move `main_dlg_cur` `proe_win` 9 841 420 0 514 1498 828 1920 1080 326797
+~ Move `main_dlg_cur` `proe_win` 9 841 421 0 1026 1498 828 1920 1080 326833
+~ Move `main_dlg_cur` `proe_win` 9 842 421 0 514 1498 828 1920 1080 326841
+~ Move `main_dlg_cur` `proe_win` 9 842 422 0 1026 1498 828 1920 1080 326850
+~ Move `main_dlg_cur` `proe_win` 9 843 422 0 514 1498 828 1920 1080 326867
+~ Move `main_dlg_cur` `proe_win` 9 843 423 0 1026 1498 828 1920 1080 326876
+~ Move `main_dlg_cur` `proe_win` 9 843 424 0 1026 1498 828 1920 1080 326903
+~ Move `main_dlg_cur` `proe_win` 9 844 424 0 514 1498 828 1920 1080 326912
+~ Move `main_dlg_cur` `proe_win` 9 845 425 0 1538 1498 828 1920 1080 326920
+~ Move `main_dlg_cur` `proe_win` 9 846 426 0 1538 1498 828 1920 1080 326930
+~ Move `main_dlg_cur` `proe_win` 9 846 427 0 1026 1498 828 1920 1080 326947
+~ Move `main_dlg_cur` `proe_win` 9 846 428 0 1026 1498 828 1920 1080 326955
+~ Move `main_dlg_cur` `proe_win` 9 847 428 0 514 1498 828 1920 1080 326981
+~ Move `main_dlg_cur` `proe_win` 9 847 429 0 1026 1498 828 1920 1080 326991
+~ Move `main_dlg_cur` `proe_win` 9 847 430 0 1026 1498 828 1920 1080 327019
+~ Move `main_dlg_cur` `proe_win` 9 848 430 0 514 1498 828 1920 1080 327042
+~ Move `main_dlg_cur` `proe_win` 9 848 431 0 1026 1498 828 1920 1080 327050
+~ Move `main_dlg_cur` `proe_win` 9 848 432 0 1026 1498 828 1920 1080 327069
+~ Move `main_dlg_cur` `proe_win` 9 848 433 0 1026 1498 828 1920 1080 327086
+~ Move `main_dlg_cur` `proe_win` 9 848 434 0 1026 1498 828 1920 1080 327148
+~ Move `main_dlg_cur` `proe_win` 9 848 436 0 1026 1498 828 1920 1080 327165
+~ Move `main_dlg_cur` `proe_win` 9 848 437 0 1026 1498 828 1920 1080 327174
+~ Move `main_dlg_cur` `proe_win` 9 848 438 0 1026 1498 828 1920 1080 327191
+~ Move `main_dlg_cur` `proe_win` 9 848 439 0 1026 1498 828 1920 1080 327208
+~ Move `main_dlg_cur` `proe_win` 9 848 440 0 1026 1498 828 1920 1080 327218
+~ Move `main_dlg_cur` `proe_win` 9 848 441 0 1026 1498 828 1920 1080 327243
+~ Move `main_dlg_cur` `proe_win` 9 848 442 0 1026 1498 828 1920 1080 327261
+~ Move `main_dlg_cur` `proe_win` 9 848 443 0 1026 1498 828 1920 1080 327271
+~ Move `main_dlg_cur` `proe_win` 9 847 444 0 1538 1498 828 1920 1080 327304
+~ Move `main_dlg_cur` `proe_win` 9 847 445 0 1026 1498 828 1920 1080 327323
+~ Move `main_dlg_cur` `proe_win` 9 847 446 0 1026 1498 828 1920 1080 327339
+~ Move `main_dlg_cur` `proe_win` 9 847 447 0 1026 1498 828 1920 1080 327350
+~ Move `main_dlg_cur` `proe_win` 9 847 448 0 1026 1498 828 1920 1080 327366
+~ Move `main_dlg_cur` `proe_win` 9 846 449 0 1538 1498 828 1920 1080 327384
+~ Move `main_dlg_cur` `proe_win` 9 846 450 0 1026 1498 828 1920 1080 327401
+~ Move `main_dlg_cur` `proe_win` 9 845 451 0 1538 1498 828 1920 1080 327436
+~ Move `main_dlg_cur` `proe_win` 9 845 452 0 1026 1498 828 1920 1080 327445
+~ Move `main_dlg_cur` `proe_win` 9 845 453 0 1026 1498 828 1920 1080 327463
+~ Move `main_dlg_cur` `proe_win` 9 844 453 0 514 1498 828 1920 1080 327498
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 844 453 0 0 1498 828 1920 1080 327542
+~ LButtonArm `main_dlg_cur` `proe_win` 9 885 364 0 513 1498 828 1920 1080 328067
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 885 364 0 0 1498 828 1920 1080 328119
+@sel_pz_xyz 638.5869565217 472.8260869565 520.0166766957 387.6889925217 0.0000000000
+@ sel view 0
+ -0.289488 0.017119 -0.048432 -0.028218 0.178635 0.231809
+ 0.042924 0.232892 -0.174245 497.295280 393.650030 -1885.795477 7.450581 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 147] 2 164 -1 (86.8818246536 59.3407021584) (-59.3407021584 3.0000000000 -86.8818246536)
+!Surf::F6(EXTRUSION_1):ETAGE1
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 3 0.832000 832 0 0 832 1920 0 0 1080 13
+< 3 1.084000 1084 0 0 999 1920 0 0 1080 13
+< 3 1.087000 1087 0 0 999 1920 0 0 1080 13
+< 3 1.087000 1087 0 0 1002 1920 0 0 1080 13
+< 3 1.087000 1087 0 0 1005 1920 0 0 1080 13
+< 3 1.066000 1066 0 0 1005 1920 0 0 1080 13
+< 3 0.982519 1692 0 0 829 1920 0 0 1080 13
+< 3 0.994370 1702 0 0 839 1920 0 0 1080 13
+< 3 0.994370 1532 0 0 839 1920 0 0 1080 13
+~ Resize `main_dlg_w3` `main_dlg_w3` 0
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 3 0.994370 1576 0 0 839 1920 0 0 1080 13
+< 3 0.994370 1583 0 0 839 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 3 0.988444 1583 0 0 834 1920 0 0 1080 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 3 0.988444 1702 0 0 834 1920 0 0 1080 13
+< 3 0.988444 1532 0 0 834 1920 0 0 1080 13
+< 2 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 2 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 0 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+!%CIImpossible de fermer la fenêtre de base.
+< 0 0.981333 1702 0 0 828 1920 0 0 1080 13
+< 0 0.981333 1532 0 0 828 1920 0 0 1080 13
+< 2 0.981333 1497 0 0 828 1920 0 0 1080 13
+< 2 0.981333 1498 0 0 828 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Restore `main_dlg_w1` `main_dlg_w1`
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.

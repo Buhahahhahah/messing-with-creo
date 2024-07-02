@@ -1,0 +1,22 @@
+﻿  MODELE MOTEUR_PINCE :
+ 
+
+  1 BOUCLES DE REFERENCE CIRCULAIRE TROUVEES
+ 
+
+   N° de boucle 1
+
+   Profondeur de la boucle = 4
+
+Numéro de fonction 5 (COMPOSANT, ID = 167) 
+  dans le modèle MOTEUR_PINCE se refère à:
+
+Numéro de fonction 4 (EXTRUSION_2, ID = 158) 
+  dans le modèle MAINTIEN_PINCE_M3 doit suivre:
+
+Numéro de fonction 1 (ESQUISSE_1, ID = 38) 
+  dans le modèle MAINTIEN_PINCE_M3 se refère à:
+
+Numéro de fonction 5 (COMPOSANT, ID = 167) 
+  dans le modèle MOTEUR_PINCE - cercle fermé.
+

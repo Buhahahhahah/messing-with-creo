@@ -1,0 +1,73 @@
+﻿  MODELE ROBOT :
+ 
+
+  4 BOUCLES DE REFERENCE CIRCULAIRE TROUVEES
+ 
+
+   N° de boucle 1
+
+   Profondeur de la boucle = 4
+
+Numéro de fonction 7 (COMPOSANT, ID = 75) 
+  dans le modèle ROBOT se refère à:
+
+Numéro de fonction 19 (EXTRUSION_8, ID = 23818) 
+  dans le modèle BASE doit suivre:
+
+Numéro de fonction 18 (ESQUISSE_8, ID = 23803) 
+  dans le modèle BASE se refère à:
+
+Numéro de fonction 7 (COMPOSANT, ID = 75) 
+  dans le modèle ROBOT - cercle fermé.
+
+
+   N° de boucle 2
+
+   Profondeur de la boucle = 4
+
+Numéro de fonction 19 (EXTRUSION_8, ID = 23818) 
+  dans le modèle BASE doit suivre:
+
+Numéro de fonction 18 (ESQUISSE_8, ID = 23803) 
+  dans le modèle BASE se refère à:
+
+Numéro de fonction 10 (COMPOSANT, ID = 84) 
+  dans le modèle ROBOT se refère à:
+
+Numéro de fonction 19 (EXTRUSION_8, ID = 23818) 
+  dans le modèle BASE - cercle fermé.
+
+
+   N° de boucle 3
+
+   Profondeur de la boucle = 4
+
+Numéro de fonction 19 (EXTRUSION_8, ID = 23818) 
+  dans le modèle BASE doit suivre:
+
+Numéro de fonction 18 (ESQUISSE_8, ID = 23803) 
+  dans le modèle BASE se refère à:
+
+Numéro de fonction 9 (COMPOSANT, ID = 81) 
+  dans le modèle ROBOT se refère à:
+
+Numéro de fonction 19 (EXTRUSION_8, ID = 23818) 
+  dans le modèle BASE - cercle fermé.
+
+
+   N° de boucle 4
+
+   Profondeur de la boucle = 4
+
+Numéro de fonction 19 (EXTRUSION_8, ID = 23818) 
+  dans le modèle BASE doit suivre:
+
+Numéro de fonction 18 (ESQUISSE_8, ID = 23803) 
+  dans le modèle BASE se refère à:
+
+Numéro de fonction 8 (COMPOSANT, ID = 78) 
+  dans le modèle ROBOT se refère à:
+
+Numéro de fonction 19 (EXTRUSION_8, ID = 23818) 
+  dans le modèle BASE - cercle fermé.
+

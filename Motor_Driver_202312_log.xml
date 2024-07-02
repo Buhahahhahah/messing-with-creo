@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT>Creo Parametric 4002022073</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>PC_Math</HOST_NAME>
+        <USER>mathe</USER>
+        <MACHINE_TYPE> AMD64 Family 25 Model 80 Stepping 0  AuthenticAMD  3294 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <item item_type="4" pointer="TRUE" tag="SUMMARY OF IMPORT PROCESSING">
+        <name pointer="TRUE" type="9">
+            <value__PO__ws_val__PC__>Résumé du processus d'importation</value__PO__ws_val__PC__>
+        </name>
+        <item__PO__item_set__PC__ pointer="TRUE" tag="NULL">
+            <name>NULL</name>
+            <items SOAP-ENC:Array="[41]">
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>MOTOR_DRIVER_202312</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 2">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>2</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 2">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>Motor_Driver_202312_1</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 3">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>3</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 3">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>R_0805_2012Metric-116</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 4">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>4</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 4">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>R_0805_2012Metric-139</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 5">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>5</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 5">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>LED_0805_2012Metric-948</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 6">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>6</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 6">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>LED_0805_2012Metric-971</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 7">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>7</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 7">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C_Rect_L7_0mm_W2_5mm_P5_00mm_1</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 8">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>8</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 8">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C_Rect_L70mm_W25mm_P500mm_1</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 9">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>9</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 9">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>CP_Radial_D8_0mm_P5_00mm</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 10">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>10</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 10">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>CP_Radial_D80mm_P500mm</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="4" pointer="TRUE" tag="Geometry Processing 10">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Traitement de la géométrie</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__item_set__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <items SOAP-ENC:Array="[1]">
+                            <items_ENTRY item_type="3" pointer="TRUE" tag="Processing errors of model 10">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Traitement des erreurs du modèle</value__PO__ws_val__PC__>
+                                </name>
+                                <item__PO__ent_set__PC__ pointer="TRUE" tag="NULL">
+                                    <name pointer="TRUE" type="6">
+                                        <value__PO__cs_val__PC__>CP_Radial_D80mm_P500mm</value__PO__cs_val__PC__>
+                                    </name>
+                                    <ents SOAP-ENC:Array="[4]">
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>4714</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>109</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type_name">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Nom du type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="6">
+                                                        <value__PO__cs_val__PC__>B_SPLINE_CURVE_WITH_KNOTS</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>4733</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>109</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type_name">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Nom du type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="6">
+                                                        <value__PO__cs_val__PC__>B_SPLINE_CURVE_WITH_KNOTS</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="NULL">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>4822</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>109</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type_name">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Nom du type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="6">
+                                                        <value__PO__cs_val__PC__>B_SPLINE_CURVE_WITH_KNOTS</value__PO__cs_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>la courbe frontière de longueur nulle est ignorée</value__PO__ws_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                        <ents_ENTRY pointer="TRUE" tag="Table columns 10">
+                                            <name>NULL</name>
+                                            <attrs SOAP-ENC:Array="[4]">
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_id">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>ID de l'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Entity_type_name">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Nom du type d'entité</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                                <attrs_ENTRY pointer="TRUE" tag="Comment">
+                                                    <name pointer="TRUE" type="9">
+                                                        <value__PO__ws_val__PC__>Commentaire</value__PO__ws_val__PC__>
+                                                    </name>
+                                                    <value pointer="TRUE" type="1">
+                                                        <value__PO__i_val__PC__>-1</value__PO__i_val__PC__>
+                                                    </value>
+                                                </attrs_ENTRY>
+                                            </attrs>
+                                        </ents_ENTRY>
+                                    </ents>
+                                </item__PO__ent_set__PC__>
+                            </items_ENTRY>
+                        </items>
+                    </item__PO__item_set__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 11">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>11</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 11">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>RJ12</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 12">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>12</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 12">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>Body</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 13">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>13</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 13">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>DIP-8_W7_62mm-6361</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 14">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>14</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 14">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>DIP-8_W7_62mm-6384</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 15">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>15</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 15">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>WR_TBL_3137_2pins_1</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 16">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>16</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 16">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>Assem1_1_2</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 17">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>17</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 17">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>Assem1_1_2_1</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 18">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>18</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 18">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>Assem1_1_2_2</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 19">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>19</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 19">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>Assem1_1_2_3</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Page info 20">
+                    <name>NULL</name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="current page">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>current page</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="total pages">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>total pages</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>20</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="short log">
+                                <name pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>short log</value__PO__cs_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="1">
+                                    <value__PO__i_val__PC__>1</value__PO__i_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+                <items_ENTRY item_type="2" pointer="TRUE" tag="Input data 20">
+                    <name pointer="TRUE" type="9">
+                        <value__PO__ws_val__PC__>Informations générales</value__PO__ws_val__PC__>
+                    </name>
+                    <item__PO__ent__PC__ pointer="TRUE" tag="NULL">
+                        <name>NULL</name>
+                        <attrs SOAP-ENC:Array="[3]">
+                            <attrs_ENTRY pointer="TRUE" tag="Interface type">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Type d'interface :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="6">
+                                    <value__PO__cs_val__PC__>STEP</value__PO__cs_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="File name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du fichier :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>C:\Users\mathe\Documents\Club Robot\Coupe de France 2024\Coupe de France moteurs DC\Coupe de France\Motor_Driver_202312.step</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                            <attrs_ENTRY pointer="TRUE" tag="Model name">
+                                <name pointer="TRUE" type="9">
+                                    <value__PO__ws_val__PC__>Nom du modèle :</value__PO__ws_val__PC__>
+                                </name>
+                                <value pointer="TRUE" type="10">
+                                    <value__PO__ws_val__PC__>_autosave-Motor_Driver_202312_P</value__PO__ws_val__PC__>
+                                </value>
+                            </attrs_ENTRY>
+                        </attrs>
+                    </item__PO__ent__PC__>
+                </items_ENTRY>
+            </items>
+        </item__PO__item_set__PC__>
+    </item>
+</XML_DOCUMENT>
